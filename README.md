@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**snehassneha4578-collab/snehassneha4578-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sneha
 
-Here are some ideas to get you started:
+### ECE Student | Embedded Systems | AI/ML | VLSI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+sneha@github:~$ whoami
+
+ECE Engineer in progress
+Building projects in AI/ML, Embedded Systems & VLSI
+```
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Electronics & Communication Engineering student
+* 💻 Interested in **AI/ML, Embedded Systems and VLSI**
+* 🧠 Learning **C, C++, Python and Verilog HDL**
+* 🔧 Working with **Cadence Virtuoso, Git & GitHub**
+* 🚀 Building practical engineering and AI projects
+
+---
+
+## 🛠️ Technologies
+
+**Languages:** C • C++ • Python • Verilog HDL
+
+**Areas:** AI/ML • Embedded Systems • VLSI • IoT
+
+**Tools:** Git • GitHub • VS Code • Cadence Virtuoso
+
+---
+
+## 📌 Featured Projects
+
+🤖 **AI-Based Hand Gesture Recognition & Presentation Automation**
+
+📡 **6G Smart Factory Network Analysis & Machine Learning**
+
+⚡ **PLL Design using Cadence Virtuoso**
+
+---
+
+<div align="center">
+
+### `sneha@github:~$ ./build_future.sh`
+
+**Learn • Build • Experiment • Improve 🚀**
+
+</div>
