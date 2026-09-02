@@ -59,6 +59,6 @@ Building projects in AI/ML, Embedded Systems & VLSI
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap">
+![GitHub Contribution Heatmap](./contrib-heatmap.svg)
 
 </div>
