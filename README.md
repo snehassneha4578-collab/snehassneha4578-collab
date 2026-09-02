@@ -52,3 +52,13 @@ Building projects in AI/ML, Embedded Systems & VLSI
 **Learn • Build • Experiment • Improve 🚀**
 
 </div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap">
+
+</div>
