@@ -2,16 +2,21 @@
 
 # 👋 Hi, I'm Sneha
 
-### ECE Student | Embedded Systems | AI/ML | VLSI
+### ECE Student • AI/ML • Embedded Systems • VLSI
 
 ```text
-sneha@github:~$ whoami
-
-ECE Engineer in progress
-Building projects in AI/ML, Embedded Systems & VLSI
-```
-
-</div>
+┌──────────────────────────────────────────────┐
+│  sneha@github:~$ whoami                      │
+│                                              │
+│  ECE Engineer in progress                   │
+│  Building AI + Electronics Projects          │
+│  Exploring intelligent engineering systems  │
+│                                              │
+│  sneha@github:~$ status                      │
+│  ● Learning      C / C++ / Python            │
+│  ● Building      AI / ML / IoT               │
+│  ● Exploring     VLSI / Embedded Systems     │
+└──────────────────────────────────────────────┘
 
 ---
 
