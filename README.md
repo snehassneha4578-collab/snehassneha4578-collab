@@ -4,6 +4,8 @@
 
 ### ECE Student • AI/ML • Embedded Systems • VLSI
 
+</div>
+
 ```text
 ┌──────────────────────────────────────────────┐
 │  sneha@github:~$ whoami                      │
@@ -17,6 +19,7 @@
 │  ● Building      AI / ML / IoT               │
 │  ● Exploring     VLSI / Embedded Systems     │
 └──────────────────────────────────────────────┘
+```
 
 ---
 
@@ -29,38 +32,41 @@
 * 🚀 Building practical engineering and AI projects
 
 ---
+
 ## ⚡ Currently Building
 
-> 🤖 AI-powered computer vision systems  
-> 📡 Machine learning for smart-factory analytics  
-> ⚡ VLSI circuit design & simulation  
+> 🤖 AI-powered computer vision systems
+> 📡 Machine learning for smart-factory analytics
+> ⚡ VLSI circuit design & simulation
 > 🔧 Embedded and IoT-based engineering systems
 
 ---
 
 ## 🛠️ Technologies
 
-| Category | Technologies |
-|---|---|
-| 💻 Languages | C • C++ • Python • Verilog HDL |
-| 🤖 AI / ML | Machine Learning • Computer Vision • Data Analysis |
-| 🔌 Electronics | Embedded Systems • IoT • Digital Electronics |
-| ⚡ VLSI | CMOS • PLL Design • Cadence Virtuoso |
-| 🧰 Tools | Git • GitHub • VS Code |
+| Category       | Technologies                                       |
+| -------------- | -------------------------------------------------- |
+| 💻 Languages   | C • C++ • Python • Verilog HDL                     |
+| 🤖 AI / ML     | Machine Learning • Computer Vision • Data Analysis |
+| 🔌 Electronics | Embedded Systems • IoT • Digital Electronics       |
+| ⚡ VLSI         | CMOS • PLL Design • Cadence Virtuoso               |
+| 🧰 Tools       | Git • GitHub • VS Code                             |
 
 ---
 
 ## 📚 What I'm Learning
 
-```text
-C / C++                 → Problem Solving & DSA
-Python                  → AI / ML & Automation
-Verilog HDL             → Digital Design & VLSI
-Machine Learning        → Intelligent Systems
-Embedded Systems        → Real-World Hardware
-Wireless Communication  → 5G / 6G Technologies
+| Area                   | Focus                 |
+| ---------------------- | --------------------- |
+| C / C++                | Problem Solving & DSA |
+| Python                 | AI / ML & Automation  |
+| Verilog HDL            | Digital Design & VLSI |
+| Machine Learning       | Intelligent Systems   |
+| Embedded Systems       | Real-World Hardware   |
+| Wireless Communication | 5G / 6G Technologies  |
 
 ---
+
 ## 📌 Featured Projects
 
 ### 📡 6G Smart Factory Network Analysis & Machine Learning
@@ -93,16 +99,6 @@ Wireless Communication  → 5G / 6G Technologies
 
 ---
 
-<div align="center">
-
-### `sneha@github:~$ ./build_future.sh`
-
-**Learn • Build • Experiment • Improve 🚀**
-
-</div>
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -110,6 +106,7 @@ Wireless Communication  → 5G / 6G Technologies
 ![GitHub Contribution Heatmap](./contrib-heatmap.svg)
 
 </div>
+
 ---
 
 ## 📈 GitHub Activity
@@ -121,15 +118,27 @@ Wireless Communication  → 5G / 6G Technologies
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark" height="165">
 
 </div>
+
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-snehassneha4578--collab-181717?style=for-the-badge&logo=github)](https://github.com/snehassneha4578-collab)
+[![GitHub](https://img.shields.io/badge/GitHub-snehassneha4578--collab-181717?style=for-the-badge\&logo=github)](https://github.com/snehassneha4578-collab)
 
 </div>
+
+---
+
+<div align="center">
+
+### `sneha@github:~$ ./build_future.sh`
+
+**Learn • Build • Experiment • Improve 🚀**
+
+</div>
+
 ---
 
 <div align="center">
@@ -145,3 +154,6 @@ Wireless Communication  → 5G / 6G Technologies
 │   [→] Engineer the Future                    │
 │                                              │
 └──────────────────────────────────────────────┘
+```
+
+</div>
