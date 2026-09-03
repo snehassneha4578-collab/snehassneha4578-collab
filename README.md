@@ -8,21 +8,6 @@
 
 </div>
 
-```text
-┌──────────────────────────────────────────────┐
-│  sneha@github:~$ whoami                      │
-│                                              │
-│  ECE Engineer in progress                   │
-│  Building AI + Electronics Projects          │
-│  Exploring intelligent engineering systems  │
-│                                              │
-│  sneha@github:~$ status                      │
-│  ● Learning      C / C++ / Python            │
-│  ● Building      AI / ML / IoT               │
-│  ● Exploring     VLSI / Embedded Systems     │
-└──────────────────────────────────────────────┘
-```
-
 ---
 
 ## 🚀 About Me
@@ -159,6 +144,3 @@
 ```
 
 </div>
-```
-
-This version keeps your **exact 3 featured projects**, adds the **ASCII portrait**, and keeps the terminal/neofetch + contribution-heatmap style.
