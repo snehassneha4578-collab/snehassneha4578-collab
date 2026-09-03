@@ -4,6 +4,8 @@
 
 ### ECE Student • AI/ML • Embedded Systems • VLSI
 
+<img src="./ascii-portrait.svg" alt="Sneha ASCII Portrait" width="700">
+
 </div>
 
 ```text
@@ -157,3 +159,6 @@
 ```
 
 </div>
+```
+
+This version keeps your **exact 3 featured projects**, adds the **ASCII portrait**, and keeps the terminal/neofetch + contribution-heatmap style.
