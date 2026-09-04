@@ -4,7 +4,7 @@
 
 ### ECE Student • AI/ML • Embedded Systems • VLSI
 
-<img src="./ascii-portrait.svg" alt="Sneha ASCII Portrait" width="700">
+<img src="./profile.jpg" alt="Sneha" width="220">
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-![GitHub Contribution Heatmap](./contrib-heatmap.svg)
+<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap">
 
 </div>
 
@@ -108,39 +108,21 @@
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-snehassneha4578--collab-181717?style=for-the-badge\&logo=github)](https://github.com/snehassneha4578-collab)
-
-</div>
-
----
-
-<div align="center">
-
-### `sneha@github:~$ ./build_future.sh`
-
-**Learn • Build • Experiment • Improve 🚀**
-
-</div>
-
----
-
-<div align="center">
+## 🧑‍💻 Engineering Mindset
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   sneha@github:~$ ./build_future.sh          │
-│                                              │
-│   [✓] Learn                                  │
-│   [✓] Build                                  │
-│   [✓] Experiment                             │
-│   [→] Engineer the Future                    │
-│                                              │
-└──────────────────────────────────────────────┘
+sneha@github:~$ ./build_future.sh
+
+[✓] Learn
+[✓] Build
+[✓] Experiment
+[→] Engineer the Future
 ```
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Innovating
 
 </div>
