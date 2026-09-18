@@ -382,7 +382,11 @@ Engineering
 
 ### 🌟 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=snehassneha4578-collab&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+<br>
+
+<img src="https://img.shields.io/badge/⭐%20Keep%20Learning-FF6B6B?style=for-the-badge">
+<img src="https://img.shields.io/badge/💡%20Keep%20Building-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀%20Keep%20Innovating-2196F3?style=for-the-badge">
 
 <br><br>
 
