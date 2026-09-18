@@ -2,150 +2,390 @@
 
 # 👋 Hi, I'm Sneha
 
-### ECE Student • AI/ML • Embedded Systems • VLSI
+### 🌟 ECE Student • AI/ML • Embedded Systems • VLSI
 
-<img src="./profile.jpg" alt="Sneha" width="220">
+<img src="./profile.jpg" alt="Sneha" width="190" style="border-radius:50%;">
 
-**Electronics & Communication Engineering Student | AI/ML • Embedded Systems • VLSI**
+<br>
 
-<p>
-<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">LinkedIn</a> •
-<a href="https://github.com/snehassneha4578-collab">GitHub</a>
-</p>
+<a href="https://github.com/snehassneha4578-collab">
+<img src="https://img.shields.io/badge/GitHub-snehassneha4578--collab-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">
+<img src="https://img.shields.io/badge/LinkedIn-Sneha%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Engineering+Systems;Exploring+Embedded+Systems+%26+VLSI;Learning+%7C+Building+%7C+Experimenting;Engineering+the+Future+%F0%9F%9A%80" alt="Typing animation">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌈 🚀 About Me
 
-* 🎓 Electronics & Communication Engineering student
-* 💻 Interested in **AI/ML, Embedded Systems and VLSI**
-* 🧠 Learning **C, C++, Python and Verilog HDL**
-* 🔧 Working with **Cadence Virtuoso, Git & GitHub**
-* 🚀 Building practical engineering and AI projects
-* 📚 Exploring AI, semiconductor technologies and intelligent engineering systems
+🎓 **Electronics & Communication Engineering student**
 
----
+💻 Interested in **AI/ML, Embedded Systems and VLSI**
 
-## ⚡ Currently Building
+🧠 Learning **C, C++, Python and Verilog HDL**
 
-* 🤖 AI-powered computer vision systems
-* 📡 Machine learning for smart-factory analytics
-* ⚡ VLSI circuit design & simulation
-* 🔧 Embedded and IoT-based engineering systems
+🔧 Working with **Cadence Virtuoso, Git & GitHub**
+
+🤖 Building practical **AI and computer vision systems**
+
+📡 Exploring **5G / 6G technologies and smart-factory analytics**
+
+⚡ Interested in combining **electronics + software + intelligent systems**
 
 ---
 
-## 🛠️ Technologies
+## 🎨 ⚡ Currently Building
 
-| Category       | Technologies                                       |
-| -------------- | -------------------------------------------------- |
-| 💻 Languages   | C • C++ • Python • Verilog HDL                     |
-| 🤖 AI / ML     | Machine Learning • Computer Vision • Data Analysis |
-| 🔌 Electronics | Embedded Systems • IoT • Digital Electronics       |
-| ⚡ VLSI         | CMOS • PLL Design • Cadence Virtuoso               |
-| 🧰 Tools       | Git • GitHub • VS Code                             |
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+### 🤖 AI & Computer Vision
 
-## 📚 What I'm Learning
+Building intelligent systems using **Python, Computer Vision and Machine Learning**.
 
-| Area                   | Focus                 |
-| ---------------------- | --------------------- |
-| C / C++                | Problem Solving & DSA |
-| Python                 | AI / ML & Automation  |
-| Verilog HDL            | Digital Design & VLSI |
-| Machine Learning       | Intelligent Systems   |
-| Embedded Systems       | Real-World Hardware   |
-| Wireless Communication | 5G / 6G Technologies  |
+</td>
+<td width="50%" align="center">
 
----
+### 📡 Smart Factory ML
 
-## 📌 Featured Projects
+Analyzing **6G network performance and manufacturing efficiency** using Machine Learning.
 
-### 📡 6G Smart Factory Network Analysis & Machine Learning
+</td>
+</tr>
 
-Machine-learning project analyzing the relationship between 6G network performance and manufacturing efficiency in smart factories.
+<tr>
+<td width="50%" align="center">
 
-**Tech:** Python • Pandas • Scikit-learn • Streamlit
+### ⚡ VLSI
 
-**Focus:** Data Analysis • Machine Learning • Network KPIs • Manufacturing Analytics
+Working with **CMOS, PLL design, circuit simulation and Cadence Virtuoso**.
 
----
+</td>
+<td width="50%" align="center">
 
-### 🤖 Personal Productivity Assistant — Secure Gemini AI Journal
+### 🔧 Embedded & IoT
 
-AI-powered productivity assistant designed to provide a secure and intelligent journaling experience using Gemini and Firebase.
+Exploring practical **embedded, IoT and electronics-based engineering systems**.
 
-**Tech:** Gemini AI • Firebase • Google Cloud • Node.js
-
-**Focus:** Generative AI • Secure Journaling • Productivity • Cloud Integration
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚡ PLL Design using Cadence Virtuoso
+# 🛠️ 💻 Technologies
 
-VLSI design project focused on the implementation and simulation of a Phase-Locked Loop using Cadence Virtuoso.
+### 💻 Programming
 
-**Tech:** Cadence Virtuoso • CMOS • Analog VLSI
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Verilog-8B5CF6?style=for-the-badge">
+</p>
 
-**Focus:** PLL Design • Circuit Simulation • VLSI
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
+
+### 🔌 Electronics & Embedded
+
+<p>
+<img src="https://img.shields.io/badge/Embedded%20Systems-009688?style=for-the-badge">
+<img src="https://img.shields.io/badge/IoT-3F51B5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital%20Electronics-E91E63?style=for-the-badge">
+<img src="https://img.shields.io/badge/5G%20%2F%206G-673AB7?style=for-the-badge">
+</p>
+
+### ⚡ VLSI
+
+<p>
+<img src="https://img.shields.io/badge/CMOS-7B1FA2?style=for-the-badge">
+<img src="https://img.shields.io/badge/PLL%20Design-C2185B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-D32F2F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Analog%20VLSI-512DA8?style=for-the-badge">
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
-## 📊 Contribution Activity
+# 📚 🌟 What I'm Learning
+
+<table>
+<tr>
+<th>📘 Area</th>
+<th>🎯 Focus</th>
+</tr>
+
+<tr>
+<td>💻 C / C++</td>
+<td>Problem Solving & DSA</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>AI / ML & Automation</td>
+</tr>
+
+<tr>
+<td>⚡ Verilog HDL</td>
+<td>Digital Design & VLSI</td>
+</tr>
+
+<tr>
+<td>🤖 Machine Learning</td>
+<td>Intelligent Systems</td>
+</tr>
+
+<tr>
+<td>🔌 Embedded Systems</td>
+<td>Real-World Hardware</td>
+</tr>
+
+<tr>
+<td>📡 Wireless Communication</td>
+<td>5G / 6G Technologies</td>
+</tr>
+
+</table>
+
+---
+
+# 🚀 💎 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📡 6G Smart Factory
+
+**Impact of 6G Network Performance on Manufacturing Efficiency in Smart Factories**
+
+Machine-learning project analyzing the relationship between **6G network performance and manufacturing efficiency**.
+
+**Tech**
+
+🐍 Python • Pandas • Scikit-learn • Streamlit
+
+**Focus**
+
+📊 Data Analysis
+🤖 Machine Learning
+📡 Network KPIs
+🏭 Manufacturing Analytics
+
+</td>
+
+<td width="50%">
+
+## 🤖 Secure Gemini Journal
+
+**Personal Productivity Assistant — Secure Gemini AI Journal**
+
+AI-powered productivity assistant designed for a **secure and intelligent journaling experience**.
+
+**Tech**
+
+✨ Gemini AI • Firebase • Google Cloud • Node.js
+
+**Focus**
+
+🤖 Generative AI
+🔐 Secure Journaling
+📈 Productivity
+☁️ Cloud Integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ⚡ PLL Design
+
+**PLL Design using Cadence Virtuoso**
+
+VLSI project focused on the implementation and simulation of a **Phase-Locked Loop**.
+
+**Tech**
+
+⚡ Cadence Virtuoso • CMOS • Analog VLSI
+
+**Focus**
+
+🔬 PLL Design
+📐 Circuit Simulation
+💜 VLSI
+
+</td>
+
+<td width="50%">
+
+## 🖐️ AI Hand Gesture System
+
+**AI-Based Hand Gesture Recognition & Intelligent Presentation Automation System**
+
+Computer-vision system using hand gestures to intelligently control presentations.
+
+**Tech**
+
+🐍 Python • OpenCV • MediaPipe • PyAutoGUI
+
+**Focus**
+
+👁️ Computer Vision
+🤖 AI
+🖐️ Gesture Recognition
+🎤 Presentation Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌈 📊 Contribution Activity
 
 <div align="center">
 
-### 🔥 Building Consistently on GitHub
+## 🔥 Building Every Day
 
-**938+ contributions in the last year**
+<img src="https://img.shields.io/badge/938%2B-Contributions-00C853?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/22-Public%20Repositories-2979FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6D00?style=for-the-badge">
+<img src="https://img.shields.io/badge/VLSI-9C27B0?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedded-00BCD4?style=for-the-badge">
 
-**22 public repositories**
+<br><br>
+
+### 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
+
+### 🟩 🟩 🟨 🟩 🟩 🟩 🟧 🟩 🟩 🟩
+
+### 🟩 🟩 🟩 🟩 🟧 🟩 🟩 🟨 🟩 🟩
+
+### 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟧 🟩
+
+<br>
+
+**938+ contributions • Continuous learning • Continuous building**
 
 <br>
 
 <a href="https://github.com/snehassneha4578-collab">
-  <img src="https://img.shields.io/badge/GitHub-View%20Full%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contribution Graph">
+<img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 💻 GitHub Activity
 
-| 📌 GitHub Metric       | Details                                                              |
-| ---------------------- | -------------------------------------------------------------------- |
-| 📦 Public Repositories | 22                                                                   |
-| 📊 Contributions       | 938+ in the last year                                                |
-| 💻 Focus Areas         | AI/ML • Embedded Systems • VLSI                                      |
-| 🧠 Languages           | C • C++ • Python • Verilog HDL                                       |
-| 🚀 Current Work        | AI Projects • Smart Factory ML • VLSI • Embedded Systems             |
-| 🔗 GitHub Profile      | [@snehassneha4578-collab](https://github.com/snehassneha4578-collab) |
+<div align="center">
 
-> 💡 My GitHub activity reflects continuous learning, experimentation, and hands-on engineering projects.
+<table>
+<tr>
+
+<td align="center">
+
+### 📦 Repositories
+
+# 22
+
+Public Repositories
+
+</td>
+
+<td align="center">
+
+### 📊 Contributions
+
+# 938+
+
+Last Year
+
+</td>
+
+<td align="center">
+
+### 🤖 Focus
+
+# AI + VLSI
+
+Engineering
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💻%20C-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚙️%20C%2B%2B-004482?style=for-the-badge">
+<img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡%20Verilog-8B5CF6?style=for-the-badge">
+
+</div>
 
 ---
 
-## 🧑‍💻 Engineering Mindset
+# 🧑‍💻 🌟 Engineering Mindset
+
+<div align="center">
 
 ```text
-sneha@github:~$ ./build_future.sh
-
-[✓] Learn
-[✓] Build
-[✓] Experiment
-[→] Engineer the Future
+╔══════════════════════════════════════╗
+║       SNEHA@GITHUB : ~/future        ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  [✓] Learn                           ║
+║  [✓] Build                           ║
+║  [✓] Experiment                      ║
+║  [✓] Fail & Learn                    ║
+║  [→] Engineer the Future             ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
+
+### 🚀 Keep Learning • Keep Building • Keep Innovating
+
+**Engineering the Future, One Project at a Time.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Innovating
+### 🌟 Thanks for visiting my profile!
 
-**Engineering the Future, One Project at a Time.**
+<img src="https://komarev.com/ghpvc/?username=snehassneha4578-collab&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+
+<br><br>
+
+**⭐ Explore my repositories • 💡 Learn with me • 🚀 Build the future**
 
 </div>
