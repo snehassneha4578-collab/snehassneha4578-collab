@@ -6,6 +6,13 @@
 
 <img src="./profile.jpg" alt="Sneha" width="220">
 
+**Electronics & Communication Engineering Student | AI/ML • Embedded Systems • VLSI**
+
+<p>
+<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">LinkedIn</a> •
+<a href="https://github.com/snehassneha4578-collab">GitHub</a>
+</p>
+
 </div>
 
 ---
@@ -17,15 +24,16 @@
 * 🧠 Learning **C, C++, Python and Verilog HDL**
 * 🔧 Working with **Cadence Virtuoso, Git & GitHub**
 * 🚀 Building practical engineering and AI projects
+* 📚 Exploring AI, semiconductor technologies and intelligent engineering systems
 
 ---
 
 ## ⚡ Currently Building
 
-> 🤖 AI-powered computer vision systems
-> 📡 Machine learning for smart-factory analytics
-> ⚡ VLSI circuit design & simulation
-> 🔧 Embedded and IoT-based engineering systems
+* 🤖 AI-powered computer vision systems
+* 📡 Machine learning for smart-factory analytics
+* ⚡ VLSI circuit design & simulation
+* 🔧 Embedded and IoT-based engineering systems
 
 ---
 
@@ -58,7 +66,7 @@
 
 ### 📡 6G Smart Factory Network Analysis & Machine Learning
 
-> Machine-learning project analyzing the relationship between 6G network performance and manufacturing efficiency in smart factories.
+Machine-learning project analyzing the relationship between 6G network performance and manufacturing efficiency in smart factories.
 
 **Tech:** Python • Pandas • Scikit-learn • Streamlit
 
@@ -68,7 +76,7 @@
 
 ### 🤖 Personal Productivity Assistant — Secure Gemini AI Journal
 
-> AI-powered productivity assistant designed to provide a secure and intelligent journaling experience using Gemini and Firebase.
+AI-powered productivity assistant designed to provide a secure and intelligent journaling experience using Gemini and Firebase.
 
 **Tech:** Gemini AI • Firebase • Google Cloud • Node.js
 
@@ -78,35 +86,40 @@
 
 ### ⚡ PLL Design using Cadence Virtuoso
 
-> VLSI design project focused on the implementation and simulation of a Phase-Locked Loop using Cadence Virtuoso.
+VLSI design project focused on the implementation and simulation of a Phase-Locked Loop using Cadence Virtuoso.
 
 **Tech:** Cadence Virtuoso • CMOS • Analog VLSI
 
 **Focus:** PLL Design • Circuit Simulation • VLSI
+
 ---
 
 ## 📊 Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/snehassneha4578-collab">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehassneha4578-collab&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/snehassneha4578-collab">
-    View my complete GitHub contribution graph and activity →
-  </a>
-</p>
+### 🔥 Building Consistently on GitHub
+
+**938+ contributions in the last year**
+
+**22 public repositories**
+
+<br>
+
+<a href="https://github.com/snehassneha4578-collab">
+  <img src="https://img.shields.io/badge/GitHub-View%20Full%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contribution Graph">
+</a>
+
+</div>
+
 ---
-
 
 ## 📈 GitHub Activity
 
 | 📌 GitHub Metric       | Details                                                              |
 | ---------------------- | -------------------------------------------------------------------- |
 | 📦 Public Repositories | 22                                                                   |
-| 📊 Contributions       | 935+ in the last year                                                |
+| 📊 Contributions       | 938+ in the last year                                                |
 | 💻 Focus Areas         | AI/ML • Embedded Systems • VLSI                                      |
 | 🧠 Languages           | C • C++ • Python • Verilog HDL                                       |
 | 🚀 Current Work        | AI Projects • Smart Factory ML • VLSI • Embedded Systems             |
@@ -132,5 +145,7 @@ sneha@github:~$ ./build_future.sh
 <div align="center">
 
 ### 🚀 Keep Learning • Keep Building • Keep Innovating
+
+**Engineering the Future, One Project at a Time.**
 
 </div>
