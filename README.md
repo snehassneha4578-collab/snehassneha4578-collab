@@ -83,25 +83,38 @@
 **Tech:** Cadence Virtuoso • CMOS • Analog VLSI
 
 **Focus:** PLL Design • Circuit Simulation • VLSI
-
 ---
+
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <a href="https://github.com/snehassneha4578-collab">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehassneha4578-collab&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
----
-
-## 📈 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/snehassneha4578-collab">
-    <img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" height="180"/>
-  </a>
-  <a href="https://github.com/snehassneha4578-collab">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+    View my complete GitHub contribution graph and activity →
   </a>
 </p>
+---
+
+
+## 📈 GitHub Activity
+
+| 📌 GitHub Metric       | Details                                                              |
+| ---------------------- | -------------------------------------------------------------------- |
+| 📦 Public Repositories | 22                                                                   |
+| 📊 Contributions       | 935+ in the last year                                                |
+| 💻 Focus Areas         | AI/ML • Embedded Systems • VLSI                                      |
+| 🧠 Languages           | C • C++ • Python • Verilog HDL                                       |
+| 🚀 Current Work        | AI Projects • Smart Factory ML • VLSI • Embedded Systems             |
+| 🔗 GitHub Profile      | [@snehassneha4578-collab](https://github.com/snehassneha4578-collab) |
+
+> 💡 My GitHub activity reflects continuous learning, experimentation, and hands-on engineering projects.
+
+---
 
 ## 🧑‍💻 Engineering Mindset
 
