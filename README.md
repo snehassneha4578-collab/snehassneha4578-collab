@@ -88,24 +88,16 @@
 
 ## 📊 Contribution Activity
 
-<div align="center">
-
-<img src="./contrib-heatmap.svg" alt="GitHub Contribution Heatmap">
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&theme=github-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&hide_border=true&theme=github_dark" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark" height="165">
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+</p>
 ---
 
 ## 🧑‍💻 Engineering Mindset
