@@ -85,20 +85,23 @@
 **Focus:** PLL Design • Circuit Simulation • VLSI
 
 ---
-
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&theme=github-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
+---
 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+  <a href="https://github.com/snehassneha4578-collab">
+    <img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" height="180"/>
+  </a>
+  <a href="https://github.com/snehassneha4578-collab">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+  </a>
 </p>
----
 
 ## 🧑‍💻 Engineering Mindset
 
