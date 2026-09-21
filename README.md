@@ -220,8 +220,8 @@ Visvesvaraya Technological University
 | Area | Experience |
 |---|---|
 | AI / ML | Unified Mentor ML Internship |
-| VLSI | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
-| Embedded | NPTEL Embedded Systems |
+| Embedded Systems | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
+
 | Generative AI | Intellipaat AI Bootcamp |
 | GenAI | SkillQuest GenAI Literacy |
 
@@ -268,8 +268,7 @@ AI/ML · Embedded Systems · VLSI
 
 <img src="https://img.shields.io/badge/Joined-July%2014%2C%202026-172554?style=for-the-badge">
 <img src="https://img.shields.io/badge/Repositories-22-312e81?style=for-the-badge">
-<img src="https://img.shields.io/badge/Commits-503%20%7C%2014%20repositories-0f172a?style=for-the-badge">
-<img src="https://img.shields.io/badge/August-8%20repositories%20created-172554?style=for-the-badge">
+<img src="https://img.shields.io/badge/August-201%20commits%20%7C%2012%20repositories-172554?style=for-the-badge">`r`n<img src="https://img.shields.io/badge/September-503%20commits%20%7C%2014%20repositories-0f172a?style=for-the-badge">
 
 <br><br>
 
@@ -284,4 +283,5 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
