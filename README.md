@@ -220,7 +220,7 @@ Visvesvaraya Technological University
 | Area | Experience |
 |---|---|
 | AI / ML | Unified Mentor ML Internship |
-| VLSI | NPTEL VLSI Design Flow: RTL to GDS |
+| VLSI | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
 | Embedded | NPTEL Embedded Systems |
 | Generative AI | Intellipaat AI Bootcamp |
 | GenAI | SkillQuest GenAI Literacy |
@@ -258,3 +258,21 @@ AI/ML · Embedded Systems · VLSI
 
 </div>
 
+
+
+---
+
+<div align="center">
+
+## GITHUB PROFILE
+
+<img src="https://img.shields.io/badge/Joined-July%2014%2C%202026-172554?style=for-the-badge">
+<img src="https://img.shields.io/badge/Repositories-22-312e81?style=for-the-badge">
+<img src="https://img.shields.io/badge/Commits-503%20%7C%2014%20repositories-0f172a?style=for-the-badge">
+<img src="https://img.shields.io/badge/August-8%20repositories%20created-172554?style=for-the-badge">
+
+<br><br>
+
+Currently active across multiple repositories in AI/ML, programming practice, embedded systems, computer vision and engineering projects.
+
+</div>
