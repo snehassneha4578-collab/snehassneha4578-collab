@@ -1,4 +1,4 @@
-﻿name: GitHub Streak Stats
+name: GitHub Streak Stats
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Fetch streak stats
         run: |
-          curl.exe -fL --retry 3 --retry-delay 5 "https://streak-stats.demolab.com?user=snehassneha4578-collab&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" -o github-streak-stats.svg
+          curl -fL --retry 3 --retry-delay 5 "https://streak-stats.demolab.com?user=snehassneha4578-collab&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" -o github-streak-stats.svg
 
       - name: Commit and push
         run: |
