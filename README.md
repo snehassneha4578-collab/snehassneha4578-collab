@@ -1,6 +1,5 @@
 ﻿<div align="center">
 <img src="./profile.jpg" alt="Sneha S" width="220">
-  <img src="./profile.jpg" alt="Sneha S" width="220">
 </p>
 
 <div align="center">
