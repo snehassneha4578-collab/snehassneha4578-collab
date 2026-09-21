@@ -1,157 +1,259 @@
 ﻿<div align="center">
 
-# SNEHA S
+<img src="./profile.jpg" width="180" alt="Sneha S">
 
-### ECE Student • AI/ML • Embedded Systems • VLSI
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snehassneha4578-collab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-s-59b8ab355)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/snehassneha4578)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/snehahonnali)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=180&section=header&text=SNEHA%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%">
+
+<h2>Electronics & Communication Engineering</h2>
+
+<p>
+AI/ML &nbsp; | &nbsp; Embedded Systems &nbsp; | &nbsp; VLSI
+</p>
+
+<p>
+<a href="https://github.com/snehassneha4578-collab">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://devpost.com/snehassneha4578">
+<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white">
+</a>
+<a href="mailto:snehassneha4578@gmail.com">
+<img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+with+AI%2FML;Exploring+Embedded+Systems;Designing+with+Verilog;Learning+VLSI+Design;Engineering+Ideas+Into+Projects" alt="Typing animation">
 
 </div>
 
 ---
-
-## About Me
-
-I am a B.E. Electronics and Communication Engineering student interested in building practical systems at the intersection of **AI/ML, embedded systems, and VLSI**.
-
-I enjoy turning ideas into working software, experimenting with machine learning, and exploring how intelligent systems can interact with real-world environments.
-
-Currently focused on strengthening my technical skills, building meaningful projects, and preparing for opportunities in **AI/ML, embedded systems, semiconductor, and software engineering**.
-
----
-
-## Technical Skills
-
-**Programming**
-
-C • C++ • Python • Java • Verilog HDL
-
-**AI / Machine Learning**
-
-Machine Learning • TensorFlow • OpenCV • Pandas • Scikit-learn
-
-**Embedded Systems**
-
-Embedded Systems • IoT • ESP32 • Hardware–Software Integration
-
-**VLSI**
-
-RTL Design • Verilog • Cadence Virtuoso • Digital Design
-
-**Tools**
-
-Git • GitHub • VS Code • Firebase • AWS
-
----
-
-## Featured Projects
-
-### Secure Gemini Journal
-
-A secure AI-powered journaling application using Gemini and Firebase.
-
-**Tech:** HTML • CSS • JavaScript • Firebase • Node.js • Express • Gemini API
-
-[View Project](https://github.com/snehassneha4578-collab/secure-gemini-journal)
-
----
-
-### 6G Smart Factory ML
-
-Machine learning system for analysing the impact of 6G network performance on manufacturing efficiency in smart factories.
-
-**Tech:** Python • Pandas • Scikit-learn • Streamlit
-
-[View Project](https://github.com/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories)
-
----
-
-### VISUALIQ
-
-AI-powered visual commerce dashboard for analysing and scoring product images.
-
-**Tech:** JavaScript • Gemini • Cloudinary • AWS • Computer Vision
-
-[View Project](https://github.com/snehassneha4578-collab)
-
----
-
-### AI Hand Gesture Automation
-
-Computer-vision based hand gesture recognition system for controlling applications through gestures.
-
-**Tech:** Python • OpenCV • Computer Vision • AI/ML
-
-[View Projects](https://github.com/snehassneha4578-collab)
-
----
-
-## GitHub Activity
 
 <div align="center">
 
-<img src="./contrib-heatmap.svg" width="90%" alt="GitHub contribution activity">
+## ENGINEERING PROFILE
 
-<br><br>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<img src="./github-streak-stats.svg" width="90%" alt="GitHub streak statistics">
+### AI / ML
+
+Machine Learning<br>
+Computer Vision<br>
+TensorFlow<br>
+Scikit-learn
+
+</td>
+<td align="center" width="25%">
+
+### EMBEDDED
+
+ESP32<br>
+IoT<br>
+Embedded Systems<br>
+Hardware Integration
+
+</td>
+<td align="center" width="25%">
+
+### VLSI
+
+Verilog HDL<br>
+RTL Design<br>
+Digital Design<br>
+Cadence Virtuoso
+
+</td>
+<td align="center" width="25%">
+
+### SOFTWARE
+
+C / C++<br>
+Python<br>
+Java<br>
+JavaScript
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Statistics
+## TECHNICAL STACK
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="90%" alt="GitHub statistics">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,github,vscode,firebase,aws,tensorflow,opencv&perline=7" alt="Technical skills">
 
 <br><br>
 
-<img src="./github-languages.svg" width="90%" alt="Most used programming languages">
+<img src="https://img.shields.io/badge/Verilog-111827?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Cadence%20Virtuoso-111827?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white">
 
 </div>
 
 ---
 
-## Education
+## SELECTED PROJECTS
 
-**B.E. — Electronics and Communication Engineering**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Secure Gemini Journal</h3>
+
+Secure AI-powered journaling platform built with Gemini and Firebase, with authenticated user data isolation and cloud deployment.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,nodejs" height="40">
+
+<br><br>
+
+<a href="https://github.com/snehassneha4578-collab/secure-gemini-journal">
+View Repository
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>6G Smart Factory ML</h3>
+
+Machine-learning project analysing the relationship between 6G network performance and manufacturing efficiency in smart factories.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python" height="40">
+
+<br>
+
+Python · Pandas · Scikit-learn · Streamlit
+
+<br><br>
+
+<a href="https://github.com/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories">
+View Repository
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>VISUALIQ</h3>
+
+AI-powered visual commerce platform for analysing and scoring product images using computer vision and generative AI.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,aws" height="40">
+
+<br>
+
+Gemini · Cloudinary · AWS · Computer Vision
+
+<br><br>
+
+<a href="https://github.com/snehassneha4578-collab">
+View Repository
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>AI Hand Gesture Automation</h3>
+
+Computer-vision based gesture recognition system designed for presentation automation and hands-free interaction.
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,opencv" height="40">
+
+<br><br>
+
+<a href="https://github.com/snehassneha4578-collab/AI-Hand-Gesture-Presentation-Automation">
+View Repository
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ENGINEERING JOURNEY
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=70&text=2023%20%E2%80%94%20ECE%20%E2%80%94%202024%20%E2%80%94%20AI%2FML%20%E2%80%94%202025%20%E2%80%94%20PROJECTS%20%E2%80%94%202026%20%E2%80%94%20FINAL%20YEAR%20%E2%80%94%202027&fontSize=16&fontColor=ffffff&animation=fadeIn" width="95%">
+
+</div>
+
+---
+
+## EDUCATION
+
+**B.E. Electronics & Communication Engineering**
 
 UBDT College of Engineering, Davanagere  
-Visvesvaraya Technological University (VTU)
+Visvesvaraya Technological University
 
-**CGPA:** 8.6 / 10  
-**2023 – 2027**
-
----
-
-## Certifications & Learning
-
-- NPTEL — VLSI Design Flow: RTL to GDS
-- NPTEL — Embedded Systems
-- AI / ML Internship — Unified Mentor
-- Intellipaat — AI Bootcamp
-- SkillQuest — GenAI Literacy
+**2023 — 2027**  
+**CGPA: 8.6 / 10**
 
 ---
 
-## Interests
+## CERTIFICATIONS & EXPERIENCE
 
-AI/ML • Embedded Systems • VLSI • Computer Vision • IoT • Intelligent Systems
+| Area | Experience |
+|---|---|
+| AI / ML | Unified Mentor ML Internship |
+| VLSI | NPTEL VLSI Design Flow: RTL to GDS |
+| Embedded | NPTEL Embedded Systems |
+| Generative AI | Intellipaat AI Bootcamp |
+| GenAI | SkillQuest GenAI Literacy |
 
 ---
 
 <div align="center">
 
-### Let's Connect
+## GITHUB ACTIVITY
 
-[LinkedIn](https://www.linkedin.com/in/sneha-s-59b8ab355) •
-[GitHub](https://github.com/snehassneha4578-collab) •
-[Devpost](https://devpost.com/snehassneha4578) •
-[X](https://x.com/snehahonnali)
+<img src="./contrib-heatmap.svg" width="95%" alt="GitHub contribution activity">
+
+<br><br>
+
+<img src="./github-streak-stats.svg" width="70%" alt="GitHub streak statistics">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:172554,100:0f172a&height=120&section=footer" width="100%">
+
+### SNEHA S
+
+Electronics & Communication Engineering  
+AI/ML · Embedded Systems · VLSI
+
+<a href="https://github.com/snehassneha4578-collab">GitHub</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/snehass-59b8ab355">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://devpost.com/snehassneha4578">Devpost</a>
 
 </div>
