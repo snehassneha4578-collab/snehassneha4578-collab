@@ -1,4 +1,4 @@
-﻿name: GitHub Metrics
+name: GitHub Metrics
 
 on:
   schedule:
