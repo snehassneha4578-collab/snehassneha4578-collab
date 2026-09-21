@@ -252,8 +252,9 @@ AI/ML · Embedded Systems · VLSI
 
 <a href="https://github.com/snehassneha4578-collab">GitHub</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/snehass-59b8ab355">LinkedIn</a>
+<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">LinkedIn</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://devpost.com/snehassneha4578">Devpost</a>
 
 </div>
+
