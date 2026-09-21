@@ -1,97 +1,157 @@
 ﻿<div align="center">
-<img src="./profile.jpg" alt="Sneha S" width="220">
-</p>
 
-<div align="center">
+# SNEHA S
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0b1230,100:00d4ff&text=SNEHA%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+### ECE Student • AI/ML • Embedded Systems • VLSI
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Engineering+Systems;Exploring+Embedded+Systems+%26+VLSI;Computer+Vision+%7C+Machine+Learning+%7C+Generative+AI;Electronics+%2B+Software+%2B+Intelligence;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Innovate" alt="Typing animation"/>
-
-</a>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,verilog,tensorflow,opencv,git,github" />
-
-<br/><br/>
-
-<a href="https://github.com/snehassneha4578-collab">
-<img src="https://img.shields.io/badge/GitHub-snehassneha4578--collab-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">
-<img src="https://img.shields.io/badge/LinkedIn-Sneha%20S-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
-</a>
-<a href="https://devpost.com/snehassneha4578">
-<img src="https://img.shields.io/badge/Devpost-Projects-0d1117?style=for-the-badge&logo=devpost&logoColor=00d4ff"/>
-</a>
-<a href="https://x.com/snehahonnali">
-<img src="https://img.shields.io/badge/X-Profile-0d1117?style=for-the-badge&logo=x&logoColor=00d4ff"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=snehassneha4578-collab&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
-
-</div>
-
----
-# ????? ?? Engineering Mindset
-### ?? Keep Learning • Keep Building • Keep Innovating
-### ?? Thanks for visiting my profile!
-
-## ?? LIVE CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="100%" alt="Animated GitHub contribution heatmap"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/snehassneha4578-collab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-s-59b8ab355)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/snehassneha4578)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/snehahonnali)
 
 </div>
 
 ---
 
-## ?? PAC-MAN // CONTRIBUTION MODE
+## About Me
+
+I am a B.E. Electronics and Communication Engineering student interested in building practical systems at the intersection of **AI/ML, embedded systems, and VLSI**.
+
+I enjoy turning ideas into working software, experimenting with machine learning, and exploring how intelligent systems can interact with real-world environments.
+
+Currently focused on strengthening my technical skills, building meaningful projects, and preparing for opportunities in **AI/ML, embedded systems, semiconductor, and software engineering**.
+
+---
+
+## Technical Skills
+
+**Programming**
+
+C • C++ • Python • Java • Verilog HDL
+
+**AI / Machine Learning**
+
+Machine Learning • TensorFlow • OpenCV • Pandas • Scikit-learn
+
+**Embedded Systems**
+
+Embedded Systems • IoT • ESP32 • Hardware–Software Integration
+
+**VLSI**
+
+RTL Design • Verilog • Cadence Virtuoso • Digital Design
+
+**Tools**
+
+Git • GitHub • VS Code • Firebase • AWS
+
+---
+
+## Featured Projects
+
+### Secure Gemini Journal
+
+A secure AI-powered journaling application using Gemini and Firebase.
+
+**Tech:** HTML • CSS • JavaScript • Firebase • Node.js • Express • Gemini API
+
+[View Project](https://github.com/snehassneha4578-collab/secure-gemini-journal)
+
+---
+
+### 6G Smart Factory ML
+
+Machine learning system for analysing the impact of 6G network performance on manufacturing efficiency in smart factories.
+
+**Tech:** Python • Pandas • Scikit-learn • Streamlit
+
+[View Project](https://github.com/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories)
+
+---
+
+### VISUALIQ
+
+AI-powered visual commerce dashboard for analysing and scoring product images.
+
+**Tech:** JavaScript • Gemini • Cloudinary • AWS • Computer Vision
+
+[View Project](https://github.com/snehassneha4578-collab)
+
+---
+
+### AI Hand Gesture Automation
+
+Computer-vision based hand gesture recognition system for controlling applications through gestures.
+
+**Tech:** Python • OpenCV • Computer Vision • AI/ML
+
+[View Projects](https://github.com/snehassneha4578-collab)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+<img src="./contrib-heatmap.svg" width="90%" alt="GitHub contribution activity">
+
+<br><br>
+
+<img src="./github-streak-stats.svg" width="90%" alt="GitHub streak statistics">
 
 </div>
 
 ---
 
-## ?? SNAKE // CONTRIBUTION TRACE
+## GitHub Statistics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake.svg" width="100%" alt="GitHub contribution snake"/>
-</picture>
+<img src="./github-metrics.svg" width="90%" alt="GitHub statistics">
+
+<br><br>
+
+<img src="./github-languages.svg" width="90%" alt="Most used programming languages">
 
 </div>
 
 ---
 
-## ?? GITHUB // LIVE TELEMETRY
+## Education
 
-<div align="center">
+**B.E. — Electronics and Communication Engineering**
 
-<img src="./github-streak-stats.svg" width="100%" alt="GitHub streak statistics"/>
+UBDT College of Engineering, Davanagere  
+Visvesvaraya Technological University (VTU)
 
-<br/><br/>
-
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
-
-<br/><br/>
-
-<img src="./github-languages.svg" width="100%" alt="Most used programming languages"/>
-
-</div>
+**CGPA:** 8.6 / 10  
+**2023 – 2027**
 
 ---
 
+## Certifications & Learning
 
+- NPTEL — VLSI Design Flow: RTL to GDS
+- NPTEL — Embedded Systems
+- AI / ML Internship — Unified Mentor
+- Intellipaat — AI Bootcamp
+- SkillQuest — GenAI Literacy
 
+---
+
+## Interests
+
+AI/ML • Embedded Systems • VLSI • Computer Vision • IoT • Intelligent Systems
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/sneha-s-59b8ab355) •
+[GitHub](https://github.com/snehassneha4578-collab) •
+[Devpost](https://devpost.com/snehassneha4578) •
+[X](https://x.com/snehahonnali)
+
+</div>
