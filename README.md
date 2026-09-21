@@ -279,3 +279,9 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 
 
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
+</p>
+
