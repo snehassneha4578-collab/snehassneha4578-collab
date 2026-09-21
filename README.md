@@ -37,22 +37,6 @@
 </div>
 
 ---
-## ?? NEXUS
-Planned autonomous AI system designed around reasoning, planning, research, execution, verification, correction, and re-verification.
-
-**Status:** Planned • Not started yet
-
-## ?? JARVIS-X
-Planned self-evolving physical intelligence platform combining AI/ML, computer vision, embedded systems, IoT, world modeling, and intelligent experimentation.
-
-**Status:** Planned • Not started yet
-
-## ?? LIFEGRID-X
-Planned autonomous resilience intelligence system focused on digital twins, cascading-risk intelligence, counterfactual simulation, verification, self-correction, and intelligent recovery.
-
-**Status:** Planned • Not started yet
-
-### ?? From Idea ? System ? Experiment ? Validation
 # ????? ?? Engineering Mindset
 ### ?? Keep Learning • Keep Building • Keep Innovating
 ### ?? Thanks for visiting my profile!
