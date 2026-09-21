@@ -1,45 +1,66 @@
-<div align="center">
+﻿<div align="center">
 
-# 👋 Hi, I'm Sneha
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0b1230,100:00d4ff&text=SNEHA%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
-### 🌟 ECE Student • AI/ML • Embedded Systems • VLSI
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Engineering+Systems;Exploring+Embedded+Systems+%26+VLSI;Computer+Vision+%7C+Machine+Learning+%7C+Generative+AI;Electronics+%2B+Software+%2B+Intelligence;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Innovate" alt="Typing animation"/>
 
-<img src="./profile.jpg" alt="Sneha" width="190" style="border-radius:50%;">
+</a>
 
-<br>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,verilog,tensorflow,opencv,git,github" />
+
+<br/><br/>
 
 <a href="https://github.com/snehassneha4578-collab">
-<img src="https://img.shields.io/badge/GitHub-snehassneha4578--collab-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-snehassneha4578--collab-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/sneha-s-59b8ab355">
-<img src="https://img.shields.io/badge/LinkedIn-Sneha%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Sneha%20S-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff"/>
+</a>
+<a href="https://devpost.com/snehassneha4578">
+<img src="https://img.shields.io/badge/Devpost-Projects-0d1117?style=for-the-badge&logo=devpost&logoColor=00d4ff"/>
+</a>
+<a href="https://x.com/snehahonnali">
+<img src="https://img.shields.io/badge/X-Profile-0d1117?style=for-the-badge&logo=x&logoColor=00d4ff"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Engineering+Systems;Exploring+Embedded+Systems+%26+VLSI;Learning+%7C+Building+%7C+Experimenting;Engineering+the+Future+%F0%9F%9A%80" alt="Typing animation">
+<img src="https://komarev.com/ghpvc/?username=snehassneha4578-collab&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
 
 </div>
 
 ---
-
 ## 🌈 🚀 About Me
 
-🎓 **Electronics & Communication Engineering student**
+🎓 **B.E. Electronics & Communication Engineering** student at BDT College of Engineering, Davanagere.
 
-💻 Interested in **AI/ML, Embedded Systems and VLSI**
+🤖 I build **AI-powered engineering systems** that combine electronics, software, machine learning, computer vision, and intelligent automation.
 
-🧠 Learning **C, C++, Python and Verilog HDL**
+🔧 **Core Focus**
+- AI / Machine Learning
+- Embedded Systems & IoT
+- VLSI & Digital Electronics
+- Computer Vision
+- Generative AI
+- Intelligent Automation
 
-🔧 Working with **Cadence Virtuoso, Git & GitHub**
+💻 **Languages & Technologies**
+`C` • `C++` • `Python` • `Java` • `Verilog` • `TensorFlow` • `scikit-learn` • `OpenCV`
 
-🤖 Building practical **AI and computer vision systems**
+🛠️ **Engineering Tools**
+`Git` • `GitHub` • `Cadence Virtuoso` • `Streamlit` • `Firebase` • `Cloudinary`
 
-📡 Exploring **5G / 6G technologies and smart-factory analytics**
+🚀 **Currently Building**
+- 🧠 AI-powered engineering and autonomous systems
+- 🏭 Smart-factory intelligence & predictive analytics
+- 👁️ Computer-vision automation
+- ⚡ Embedded + AI integrations
+- 🌐 Agentic AI systems
 
-⚡ Interested in combining **electronics + software + intelligent systems**
-
----
+> **Learn • Build • Experiment • Fail • Improve • Innovate**
 
 ## 🎨 ⚡ Currently Building
 
@@ -47,16 +68,20 @@
 <tr>
 <td width="50%" align="center">
 
-### 🤖 AI & Computer Vision
+### 🧠 Autonomous AI Systems
 
-Building intelligent systems using **Python, Computer Vision and Machine Learning**.
+Designing intelligent systems that can **reason, plan, analyze, verify, self-correct and recover from failures**.
+
+**AI Agents • GenAI • Multimodal Intelligence • System Automation**
 
 </td>
 <td width="50%" align="center">
 
-### 📡 Smart Factory ML
+### 🏭 Industrial AI
 
-Analyzing **6G network performance and manufacturing efficiency** using Machine Learning.
+Building intelligent solutions for **smart factories, predictive analytics, anomaly detection and manufacturing intelligence**.
+
+**6G • ML • Predictive Intelligence • Digital Systems**
 
 </td>
 </tr>
@@ -64,332 +89,224 @@ Analyzing **6G network performance and manufacturing efficiency** using Machine 
 <tr>
 <td width="50%" align="center">
 
-### ⚡ VLSI
+### 👁️ Computer Vision
 
-Working with **CMOS, PLL design, circuit simulation and Cadence Virtuoso**.
+Creating real-time vision systems for **gesture recognition, automation and human-computer interaction**.
+
+**OpenCV • MediaPipe • PyAutoGUI • AI**
 
 </td>
 <td width="50%" align="center">
 
-### 🔧 Embedded & IoT
+### ⚡ Embedded + VLSI
 
-Exploring practical **embedded, IoT and electronics-based engineering systems**.
+Exploring the intersection of **electronics, embedded intelligence and chip-level design**.
+
+**C/C++ • Verilog • CMOS • PLL • Cadence Virtuoso • ESP32**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
+<div align="center">
+
+`AI` ⚡ `Electronics` ⚡ `Embedded Systems` ⚡ `VLSI` ⚡ `Computer Vision` ⚡ `GenAI`
+
+</div>
+
+---
 # 🛠️ 💻 Technologies
+
+<div align="center">
 
 ### 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Verilog-8B5CF6?style=for-the-badge">
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+
+<br/><br/>
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<br/>
+
+`Machine Learning` • `Computer Vision` • `Generative AI` • `Agentic AI` • `scikit-learn`
+
+<br/><br/>
 
 ### 🔌 Electronics & Embedded
 
-<p>
-<img src="https://img.shields.io/badge/Embedded%20Systems-009688?style=for-the-badge">
-<img src="https://img.shields.io/badge/IoT-3F51B5?style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital%20Electronics-E91E63?style=for-the-badge">
-<img src="https://img.shields.io/badge/5G%20%2F%206G-673AB7?style=for-the-badge">
-</p>
+<img src="https://skillicons.dev/icons?i=arduino" />
 
-### ⚡ VLSI
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/CMOS-7B1FA2?style=for-the-badge">
-<img src="https://img.shields.io/badge/PLL%20Design-C2185B?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cadence%20Virtuoso-D32F2F?style=for-the-badge">
-<img src="https://img.shields.io/badge/Analog%20VLSI-512DA8?style=for-the-badge">
-</p>
+`Embedded Systems` • `IoT` • `ESP32` • `Sensors` • `C/C++`
 
-### 🧰 Tools
+<br/><br/>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</p>
+### ⚡ VLSI & Digital Design
+
+`Verilog HDL` • `Digital Electronics` • `CMOS` • `PLL Design` • `Cadence Virtuoso`
+
+<br/><br/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,nodejs,streamlit" />
+
+<br/><br/>
+
+</div>
 
 ---
-
 # 📚 🌟 What I'm Learning
+
+<div align="center">
 
 <table>
 <tr>
-<th>📘 Area</th>
-<th>🎯 Focus</th>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td>💻 C / C++</td>
-<td>Problem Solving & DSA</td>
-</tr>
+### 🤖 AI / ML
 
-<tr>
-<td>🐍 Python</td>
-<td>AI / ML & Automation</td>
-</tr>
+Machine Learning
+Deep Learning
+Generative AI
+Agentic AI
 
-<tr>
-<td>⚡ Verilog HDL</td>
-<td>Digital Design & VLSI</td>
-</tr>
+</td>
 
-<tr>
-<td>🤖 Machine Learning</td>
-<td>Intelligent Systems</td>
-</tr>
+<td align="center" width="25%">
 
-<tr>
-<td>🔌 Embedded Systems</td>
-<td>Real-World Hardware</td>
-</tr>
+### ⚡ VLSI
 
-<tr>
-<td>📡 Wireless Communication</td>
-<td>5G / 6G Technologies</td>
-</tr>
+Digital Design
+Verilog HDL
+CMOS
+Cadence Virtuoso
 
+</td>
+
+<td align="center" width="25%">
+
+### 🔌 Embedded
+
+C / C++
+Microcontrollers
+ESP32
+IoT Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 Systems
+
+Computer Vision
+Automation
+Cloud
+Intelligent Systems
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+`Learn` → `Build` → `Test` → `Debug` → `Improve` → `Deploy`
+
+</div>
 
 ---
 
 # 🚀 💎 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🔐 Secure Gemini Journal
+Secure AI-powered journaling platform combining Firebase Authentication, Firestore, Gemini AI, and a secure Node.js backend.
 
-## 📡 6G Smart Factory
+## 🏭 6G Smart Factory ML
+Machine-learning system analyzing the impact of 6G network performance on manufacturing efficiency using Python, Pandas, scikit-learn, and Streamlit.
 
-**Impact of 6G Network Performance on Manufacturing Efficiency in Smart Factories**
+## 👁️ VISUALIQ
+AI-powered product intelligence and visual commerce platform combining computer vision, Gemini AI, Cloudinary, and intelligent product analysis.
 
-Machine-learning project analyzing the relationship between **6G network performance and manufacturing efficiency**.
+## ⚡ AI Hand Gesture Automation
+Real-time computer-vision system using OpenCV, MediaPipe, and PyAutoGUI to control presentation actions through hand gestures.
 
-**Tech**
+# 🔭 🌟 Future Projects & Research Goals
 
-🐍 Python • Pandas • Scikit-learn • Streamlit
+## 🧠 NEXUS
+Planned autonomous AI system designed around reasoning, planning, research, execution, verification, correction, and re-verification.
 
-**Focus**
+**Status:** Planned • Not started yet
 
-📊 Data Analysis
-🤖 Machine Learning
-📡 Network KPIs
-🏭 Manufacturing Analytics
+## 🤖 JARVIS-X
+Planned self-evolving physical intelligence platform combining AI/ML, computer vision, embedded systems, IoT, world modeling, and intelligent experimentation.
 
-</td>
+**Status:** Planned • Not started yet
 
-<td width="50%">
+## 🌍 LIFEGRID-X
+Planned autonomous resilience intelligence system focused on digital twins, cascading-risk intelligence, counterfactual simulation, verification, self-correction, and intelligent recovery.
 
-## 🤖 Secure Gemini Journal
+**Status:** Planned • Not started yet
 
-**Personal Productivity Assistant — Secure Gemini AI Journal**
-
-AI-powered productivity assistant designed for a **secure and intelligent journaling experience**.
-
-**Tech**
-
-✨ Gemini AI • Firebase • Google Cloud • Node.js
-
-**Focus**
-
-🤖 Generative AI
-🔐 Secure Journaling
-📈 Productivity
-☁️ Cloud Integration
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## ⚡ PLL Design
-
-**PLL Design using Cadence Virtuoso**
-
-VLSI project focused on the implementation and simulation of a **Phase-Locked Loop**.
-
-**Tech**
-
-⚡ Cadence Virtuoso • CMOS • Analog VLSI
-
-**Focus**
-
-🔬 PLL Design
-📐 Circuit Simulation
-💜 VLSI
-
-</td>
-
-<td width="50%">
-
-## 🖐️ AI Hand Gesture System
-
-**AI-Based Hand Gesture Recognition & Intelligent Presentation Automation System**
-
-Computer-vision system using hand gestures to intelligently control presentations.
-
-**Tech**
-
-🐍 Python • OpenCV • MediaPipe • PyAutoGUI
-
-**Focus**
-
-👁️ Computer Vision
-🤖 AI
-🖐️ Gesture Recognition
-🎤 Presentation Automation
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌈 📊 Contribution Activity
-
-<div align="center">
-
-## 🔥 Building Every Day
-
-<img src="https://img.shields.io/badge/938%2B-Contributions-00C853?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/22-Public%20Repositories-2979FF?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6D00?style=for-the-badge">
-<img src="https://img.shields.io/badge/VLSI-9C27B0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Embedded-00BCD4?style=for-the-badge">
-
-<br><br>
-
-### 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
-
-### 🟩 🟩 🟨 🟩 🟩 🟩 🟧 🟩 🟩 🟩
-
-### 🟩 🟩 🟩 🟩 🟧 🟩 🟩 🟨 🟩 🟩
-
-### 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟧 🟩
-
-<br>
-
-**938+ contributions • Continuous learning • Continuous building**
-
-<br>
-
-<a href="https://github.com/snehassneha4578-collab">
-<img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 📈 💻 GitHub Activity
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 📦 Repositories
-
-# 22
-
-Public Repositories
-
-</td>
-
-<td align="center">
-
-### 📊 Contributions
-
-# 938+
-
-Last Year
-
-</td>
-
-<td align="center">
-
-### 🤖 Focus
-
-# AI + VLSI
-
-Engineering
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/💻%20C-00599C?style=for-the-badge">
-<img src="https://img.shields.io/badge/⚙️%20C%2B%2B-004482?style=for-the-badge">
-<img src="https://img.shields.io/badge/🐍%20Python-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/⚡%20Verilog-8B5CF6?style=for-the-badge">
-
-</div>
-
----
-
+### ⚙️ From Idea → System → Experiment → Validation
 # 🧑‍💻 🌟 Engineering Mindset
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════╗
-║       SNEHA@GITHUB : ~/future        ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  [✓] Learn                           ║
-║  [✓] Build                           ║
-║  [✓] Experiment                      ║
-║  [✓] Fail & Learn                    ║
-║  [→] Engineer the Future             ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
 ### 🚀 Keep Learning • Keep Building • Keep Innovating
-
-**Engineering the Future, One Project at a Time.**
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌟 Thanks for visiting my profile!
 
-<br>
+## 🟢 LIVE CONTRIBUTION MATRIX
 
-<img src="https://img.shields.io/badge/⭐%20Keep%20Learning-FF6B6B?style=for-the-badge">
-<img src="https://img.shields.io/badge/💡%20Keep%20Building-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/🚀%20Keep%20Innovating-2196F3?style=for-the-badge">
+<div align="center">
 
-<br><br>
-
-**⭐ Explore my repositories • 💡 Learn with me • 🚀 Build the future**
+<img src="./contrib-heatmap.svg" width="100%" alt="Animated GitHub contribution heatmap"/>
 
 </div>
+
+---
+
+## 🟡 PAC-MAN // CONTRIBUTION MODE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+
+</div>
+
+---
+
+## 🐍 SNAKE // CONTRIBUTION TRACE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/github-snake.svg" width="100%" alt="GitHub contribution snake"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 GITHUB // LIVE TELEMETRY
+
+<div align="center">
+
+<img src="./github-streak-stats.svg" width="100%" alt="GitHub streak statistics"/>
+
+<br/><br/>
+
+<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
+
+<br/><br/>
+
+<img src="./github-languages.svg" width="100%" alt="Most used programming languages"/>
+
+</div>
+
+---
+
