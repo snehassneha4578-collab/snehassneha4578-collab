@@ -165,7 +165,7 @@ Gemini · Cloudinary · AWS · Computer Vision
 
 <br><br>
 
-<a href="https://github.com/snehassneha4578-collab">
+<a href="https://github.com/snehassneha4578-collab/VISUALIQ-AI-Powered-Product-Intelligence">
 View Repository
 </a>
 
@@ -276,4 +276,5 @@ AI/ML · Embedded Systems · VLSI
 Currently active across multiple repositories in AI/ML, programming practice, embedded systems, computer vision and engineering projects.
 
 </div>
+
 
