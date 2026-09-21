@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0b1230,100:00d4ff&text=SNEHA%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -33,13 +33,13 @@
 </div>
 
 ---
-## 🌈 🚀 About Me
+## ?? ?? About Me
 
-🎓 **B.E. Electronics & Communication Engineering** student at BDT College of Engineering, Davanagere.
+?? **B.E. Electronics & Communication Engineering** student at BDT College of Engineering, Davanagere.
 
-🤖 I build **AI-powered engineering systems** that combine electronics, software, machine learning, computer vision, and intelligent automation.
+?? I build **AI-powered engineering systems** that combine electronics, software, machine learning, computer vision, and intelligent automation.
 
-🔧 **Core Focus**
+?? **Core Focus**
 - AI / Machine Learning
 - Embedded Systems & IoT
 - VLSI & Digital Electronics
@@ -47,41 +47,41 @@
 - Generative AI
 - Intelligent Automation
 
-💻 **Languages & Technologies**
-`C` • `C++` • `Python` • `Java` • `Verilog` • `TensorFlow` • `scikit-learn` • `OpenCV`
+?? **Languages & Technologies**
+`C` � `C++` � `Python` � `Java` � `Verilog` � `TensorFlow` � `scikit-learn` � `OpenCV`
 
-🛠️ **Engineering Tools**
-`Git` • `GitHub` • `Cadence Virtuoso` • `Streamlit` • `Firebase` • `Cloudinary`
+??? **Engineering Tools**
+`Git` � `GitHub` � `Cadence Virtuoso` � `Streamlit` � `Firebase` � `Cloudinary`
 
-🚀 **Currently Building**
-- 🧠 AI-powered engineering and autonomous systems
-- 🏭 Smart-factory intelligence & predictive analytics
-- 👁️ Computer-vision automation
-- ⚡ Embedded + AI integrations
-- 🌐 Agentic AI systems
+?? **Currently Building**
+- ?? AI-powered engineering and autonomous systems
+- ?? Smart-factory intelligence & predictive analytics
+- ??? Computer-vision automation
+- ? Embedded + AI integrations
+- ?? Agentic AI systems
 
-> **Learn • Build • Experiment • Fail • Improve • Innovate**
+> **Learn � Build � Experiment � Fail � Improve � Innovate**
 
-## 🎨 ⚡ Currently Building
+## ?? ? Currently Building
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 🧠 Autonomous AI Systems
+### ?? Autonomous AI Systems
 
 Designing intelligent systems that can **reason, plan, analyze, verify, self-correct and recover from failures**.
 
-**AI Agents • GenAI • Multimodal Intelligence • System Automation**
+**AI Agents � GenAI � Multimodal Intelligence � System Automation**
 
 </td>
 <td width="50%" align="center">
 
-### 🏭 Industrial AI
+### ?? Industrial AI
 
 Building intelligent solutions for **smart factories, predictive analytics, anomaly detection and manufacturing intelligence**.
 
-**6G • ML • Predictive Intelligence • Digital Systems**
+**6G � ML � Predictive Intelligence � Digital Systems**
 
 </td>
 </tr>
@@ -89,20 +89,20 @@ Building intelligent solutions for **smart factories, predictive analytics, anom
 <tr>
 <td width="50%" align="center">
 
-### 👁️ Computer Vision
+### ??? Computer Vision
 
 Creating real-time vision systems for **gesture recognition, automation and human-computer interaction**.
 
-**OpenCV • MediaPipe • PyAutoGUI • AI**
+**OpenCV � MediaPipe � PyAutoGUI � AI**
 
 </td>
 <td width="50%" align="center">
 
-### ⚡ Embedded + VLSI
+### ? Embedded + VLSI
 
 Exploring the intersection of **electronics, embedded intelligence and chip-level design**.
 
-**C/C++ • Verilog • CMOS • PLL • Cadence Virtuoso • ESP32**
+**C/C++ � Verilog � CMOS � PLL � Cadence Virtuoso � ESP32**
 
 </td>
 </tr>
@@ -112,48 +112,48 @@ Exploring the intersection of **electronics, embedded intelligence and chip-leve
 
 <div align="center">
 
-`AI` ⚡ `Electronics` ⚡ `Embedded Systems` ⚡ `VLSI` ⚡ `Computer Vision` ⚡ `GenAI`
+`AI` ? `Electronics` ? `Embedded Systems` ? `VLSI` ? `Computer Vision` ? `GenAI`
 
 </div>
 
 ---
-# 🛠️ 💻 Technologies
+# ??? ?? Technologies
 
 <div align="center">
 
-### 💻 Programming
+### ?? Programming
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
 <br/><br/>
 
-### 🤖 AI / Machine Learning
+### ?? AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 <br/>
 
-`Machine Learning` • `Computer Vision` • `Generative AI` • `Agentic AI` • `scikit-learn`
+`Machine Learning` � `Computer Vision` � `Generative AI` � `Agentic AI` � `scikit-learn`
 
 <br/><br/>
 
-### 🔌 Electronics & Embedded
+### ?? Electronics & Embedded
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
 <br/>
 
-`Embedded Systems` • `IoT` • `ESP32` • `Sensors` • `C/C++`
+`Embedded Systems` � `IoT` � `ESP32` � `Sensors` � `C/C++`
 
 <br/><br/>
 
-### ⚡ VLSI & Digital Design
+### ? VLSI & Digital Design
 
-`Verilog HDL` • `Digital Electronics` • `CMOS` • `PLL Design` • `Cadence Virtuoso`
+`Verilog HDL` � `Digital Electronics` � `CMOS` � `PLL Design` � `Cadence Virtuoso`
 
 <br/><br/>
 
-### 🧰 Tools & Platforms
+### ?? Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,firebase,nodejs,streamlit" />
 
@@ -162,7 +162,7 @@ Exploring the intersection of **electronics, embedded intelligence and chip-leve
 </div>
 
 ---
-# 📚 🌟 What I'm Learning
+# ?? ?? What I'm Learning
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Exploring the intersection of **electronics, embedded intelligence and chip-leve
 <tr>
 <td align="center" width="25%">
 
-### 🤖 AI / ML
+### ?? AI / ML
 
 Machine Learning
 Deep Learning
@@ -181,7 +181,7 @@ Agentic AI
 
 <td align="center" width="25%">
 
-### ⚡ VLSI
+### ? VLSI
 
 Digital Design
 Verilog HDL
@@ -192,7 +192,7 @@ Cadence Virtuoso
 
 <td align="center" width="25%">
 
-### 🔌 Embedded
+### ?? Embedded
 
 C / C++
 Microcontrollers
@@ -203,7 +203,7 @@ IoT Systems
 
 <td align="center" width="25%">
 
-### 🧠 Systems
+### ?? Systems
 
 Computer Vision
 Automation
@@ -216,49 +216,49 @@ Intelligent Systems
 
 <br/>
 
-`Learn` → `Build` → `Test` → `Debug` → `Improve` → `Deploy`
+`Learn` ? `Build` ? `Test` ? `Debug` ? `Improve` ? `Deploy`
 
 </div>
 
 ---
 
-# 🚀 💎 Featured Projects
+# ?? ?? Featured Projects
 
-## 🔐 Secure Gemini Journal
+## ?? Secure Gemini Journal
 Secure AI-powered journaling platform combining Firebase Authentication, Firestore, Gemini AI, and a secure Node.js backend.
 
-## 🏭 6G Smart Factory ML
+## ?? 6G Smart Factory ML
 Machine-learning system analyzing the impact of 6G network performance on manufacturing efficiency using Python, Pandas, scikit-learn, and Streamlit.
 
-## 👁️ VISUALIQ
+## ??? VISUALIQ
 AI-powered product intelligence and visual commerce platform combining computer vision, Gemini AI, Cloudinary, and intelligent product analysis.
 
-## ⚡ AI Hand Gesture Automation
+## ? AI Hand Gesture Automation
 Real-time computer-vision system using OpenCV, MediaPipe, and PyAutoGUI to control presentation actions through hand gestures.
 
-# 🔭 🌟 Future Projects & Research Goals
+# ?? ?? Future Projects & Research Goals
 
-## 🧠 NEXUS
+## ?? NEXUS
 Planned autonomous AI system designed around reasoning, planning, research, execution, verification, correction, and re-verification.
 
-**Status:** Planned • Not started yet
+**Status:** Planned � Not started yet
 
-## 🤖 JARVIS-X
+## ?? JARVIS-X
 Planned self-evolving physical intelligence platform combining AI/ML, computer vision, embedded systems, IoT, world modeling, and intelligent experimentation.
 
-**Status:** Planned • Not started yet
+**Status:** Planned � Not started yet
 
-## 🌍 LIFEGRID-X
+## ?? LIFEGRID-X
 Planned autonomous resilience intelligence system focused on digital twins, cascading-risk intelligence, counterfactual simulation, verification, self-correction, and intelligent recovery.
 
-**Status:** Planned • Not started yet
+**Status:** Planned � Not started yet
 
-### ⚙️ From Idea → System → Experiment → Validation
-# 🧑‍💻 🌟 Engineering Mindset
-### 🚀 Keep Learning • Keep Building • Keep Innovating
-### 🌟 Thanks for visiting my profile!
+### ?? From Idea ? System ? Experiment ? Validation
+# ????? ?? Engineering Mindset
+### ?? Keep Learning � Keep Building � Keep Innovating
+### ?? Thanks for visiting my profile!
 
-## 🟢 LIVE CONTRIBUTION MATRIX
+## ?? LIVE CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -268,7 +268,7 @@ Planned autonomous resilience intelligence system focused on digital twins, casc
 
 ---
 
-## 🟡 PAC-MAN // CONTRIBUTION MODE
+## ?? PAC-MAN // CONTRIBUTION MODE
 
 <div align="center">
 
@@ -278,7 +278,7 @@ Planned autonomous resilience intelligence system focused on digital twins, casc
 
 ---
 
-## 🐍 SNAKE // CONTRIBUTION TRACE
+## ?? SNAKE // CONTRIBUTION TRACE
 
 <div align="center">
 
@@ -292,7 +292,7 @@ Planned autonomous resilience intelligence system focused on digital twins, casc
 
 ---
 
-## 📈 GITHUB // LIVE TELEMETRY
+## ?? GITHUB // LIVE TELEMETRY
 
 <div align="center">
 
@@ -309,4 +309,5 @@ Planned autonomous resilience intelligence system focused on digital twins, casc
 </div>
 
 ---
+
 
