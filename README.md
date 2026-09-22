@@ -1,5 +1,18 @@
 ﻿<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:111827,75:0f172a,100:020617&height=190&section=header&animation=fadeIn" width="100%" alt="Animated futuristic engineering background">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Artificial+Intelligence+%7C+Embedded+Systems+%7C+VLSI;Building+Intelligent+Engineering+Systems;ECE+Student+%7C+AI%2FML+%7C+Embedded+%7C+VLSI;Turning+Ideas+Into+Real+Systems" alt="Engineering focus animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=3&section=header" width="80%" alt="Animated divider">
+
+</div>
+
+<br>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:111827,100:020617&height=230&section=header&text=SNEHA%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=61&descSize=18&descColor=94a3b8" width="100%" alt="Sneha S animated hero">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;AI+%7C+Embedded+Systems+%7C+VLSI;Engineering+Ideas+Into+Real+Systems;ECE+Student+%7C+Future+Engineer" alt="Typing Animation">
@@ -291,6 +304,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
