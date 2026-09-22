@@ -27,46 +27,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:312e81&height=180&section=header&text=SNEHA%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%">
-
-<h2>Electronics & Communication Engineering</h2>
-
-<p>
-AI/ML &nbsp; | &nbsp; Embedded Systems &nbsp; | &nbsp; VLSI
-</p>
-
-<p>
-<a href="https://github.com/snehassneha4578-collab">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://devpost.com/snehassneha4578">
-<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white">
-</a>
-<a href="mailto:snehassneha4578@gmail.com">
-<img src="https://img.shields.io/badge/Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+with+AI%2FML;Exploring+Embedded+Systems;Designing+with+Verilog;Learning+VLSI+Design;Engineering+Ideas+Into+Projects" alt="Typing animation">
-
-</div>
-
----
-
-<div align="center">
-
-## ENGINEERING PROFILE
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### AI / ML
-
-Machine Learning<br>
 Computer Vision<br>
 TensorFlow<br>
 Scikit-learn
