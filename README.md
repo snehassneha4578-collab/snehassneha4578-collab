@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:111827,75:0f172a,100:020617&height=190&section=header&animation=fadeIn" width="100%" alt="Animated futuristic engineering background">
 
@@ -8,33 +8,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=3&section=header" width="80%" alt="Animated divider">
 
-</div>
+<br><br>
 
-<br>
-<div align="center">
+<img src="./profile.jpg" width="150" alt="Profile photo">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:111827,100:020617&height=230&section=header&text=SNEHA%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=61&descSize=18&descColor=94a3b8" width="100%" alt="Sneha S animated hero">
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;AI+%7C+Embedded+Systems+%7C+VLSI;Engineering+Ideas+Into+Real+Systems;ECE+Student+%7C+Future+Engineer" alt="Typing Animation">
+<table>
+<tr>
 
-<br>
+<td align="center" width="25%">
 
-</div>
+### 🤖 AI / ML
 
-<div align="center">
-
-<img src="./profile.jpg" width="180" alt="Sneha S">
-
-<br>
-
+Machine Learning<br>
 Computer Vision<br>
 TensorFlow<br>
 Scikit-learn
 
 </td>
+
 <td align="center" width="25%">
 
-### EMBEDDED
+### ⚡ EMBEDDED
 
 ESP32<br>
 IoT<br>
@@ -42,9 +38,10 @@ Embedded Systems<br>
 Hardware Integration
 
 </td>
+
 <td align="center" width="25%">
 
-### VLSI
+### 🔧 VLSI
 
 Verilog HDL<br>
 RTL Design<br>
@@ -52,9 +49,10 @@ Digital Design<br>
 Cadence Virtuoso
 
 </td>
+
 <td align="center" width="25%">
 
-### SOFTWARE
+### 💻 SOFTWARE
 
 C / C++<br>
 Python<br>
@@ -62,13 +60,13 @@ Java<br>
 JavaScript
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
 ---
-
 ## TECHNICAL STACK
 
 <div align="center">
@@ -244,3 +242,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
+
+
+
