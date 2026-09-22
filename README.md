@@ -6,61 +6,55 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=3&section=header" width="80%" alt="Animated divider">
-
-<br><br>
-
-<img src="./profile.jpg" width="150" alt="Profile photo">
+<img src="./profile.jpg" width="180" alt="Sneha S">
 
 <br><br>
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
-### 🤖 AI / ML
+### AI / ML
 
-Machine Learning<br>
-Computer Vision<br>
-TensorFlow<br>
-Scikit-learn
+Computer Vision  
+TensorFlow  
+Scikit-learn  
+Pandas
 
 </td>
 
 <td align="center" width="25%">
 
-### ⚡ EMBEDDED
+### EMBEDDED
 
-ESP32<br>
-IoT<br>
-Embedded Systems<br>
+ESP32  
+IoT  
+Embedded Systems  
 Hardware Integration
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔧 VLSI
+### VLSI
 
-Verilog HDL<br>
-RTL Design<br>
-Digital Design<br>
+Verilog HDL  
+RTL Design  
+Digital Design  
 Cadence Virtuoso
 
 </td>
 
 <td align="center" width="25%">
 
-### 💻 SOFTWARE
+### SOFTWARE
 
-C / C++<br>
-Python<br>
-Java<br>
+C / C++  
+Python  
+Java  
 JavaScript
 
 </td>
-
 </tr>
 </table>
 
@@ -242,6 +236,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
