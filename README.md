@@ -198,6 +198,7 @@ Visvesvaraya Technological University
 | AI / ML | Unified Mentor ML Internship |
 | Embedded Systems | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
 
+| Generative AI | Intellipaat AI Bootcamp |
 | GenAI | SkillQuest GenAI Literacy |
 
 ---
