@@ -14,52 +14,51 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### AI / ML
+<h3>AI / ML</h3>
 
-Computer Vision  
-TensorFlow  
-Scikit-learn  
+Computer Vision<br>
+TensorFlow<br>
+Scikit-learn<br>
 Pandas
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### EMBEDDED
+<h3>EMBEDDED</h3>
 
-ESP32  
-IoT  
-Embedded Systems  
+ESP32<br>
+IoT<br>
+Embedded Systems<br>
 Hardware Integration
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### VLSI
+<h3>VLSI</h3>
 
-Verilog HDL  
-RTL Design  
-Digital Design  
+Verilog HDL<br>
+RTL Design<br>
+Digital Design<br>
 Cadence Virtuoso
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" valign="top">
 
-### SOFTWARE
+<h3>SOFTWARE</h3>
 
-C / C++  
-Python  
-Java  
+C / C++<br>
+Python<br>
+Java<br>
 JavaScript
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -231,6 +230,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
