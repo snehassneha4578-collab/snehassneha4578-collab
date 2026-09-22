@@ -6,8 +6,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/main/profile.jpg" width="125" alt="Sneha">
-
 </div>
 
 <br>
@@ -302,6 +300,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
