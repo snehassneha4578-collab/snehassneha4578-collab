@@ -265,26 +265,7 @@ Visvesvaraya Technological University
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:172554,100:0f172a&height=120&section=footer" width="100%">
 
-### SNEHA S
-
-Electronics & Communication Engineering  
-AI/ML · Embedded Systems · VLSI
-
-<a href="https://github.com/snehassneha4578-collab">GitHub</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sneha-s-59b8ab355">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://devpost.com/snehassneha4578">Devpost</a>
-
-</div>
-
-
-
----
-
-<div align="center">
-
-## GITHUB PROFILE
+### GITHUB PROFILE
 
 <img src="https://img.shields.io/badge/Joined-July%2014%2C%202026-172554?style=for-the-badge">
 <img src="https://img.shields.io/badge/Repositories-22-312e81?style=for-the-badge">
@@ -298,21 +279,11 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 </div>
 
 
-
 ## GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
-
-
-
-
-
-
-
-
-
 
 
 
