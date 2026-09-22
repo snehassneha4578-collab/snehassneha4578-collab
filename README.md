@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:111827,75:0f172a,100:020617&height=190&section=header&animation=fadeIn" width="100%" alt="Animated futuristic engineering background">
 
@@ -244,6 +244,3 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
-
-
-
