@@ -1,3 +1,24 @@
+ï»¿<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:111827,100:020617&height=230&section=header&text=SNEHA%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20VLSI&descAlignY=61&descSize=18&descColor=94a3b8" width="100%" alt="Sneha S animated hero">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems;AI+%7C+Embedded+Systems+%7C+VLSI;Engineering+Ideas+Into+Real+Systems;ECE+Student+%7C+Future+Engineer" alt="Typing Animation">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/main/profile.jpg" width="125" alt="Sneha">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&bg_color=020617&color=38BDF8&line=6366F1&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+
+</div>
+
+<br>
 <div align="center">
 
 <img src="./profile.jpg" width="180" alt="Sneha S">
@@ -137,7 +158,7 @@ Machine-learning project analysing the relationship between 6G network performan
 
 <br>
 
-Python · Pandas · Scikit-learn · Streamlit
+Python Â· Pandas Â· Scikit-learn Â· Streamlit
 
 <br><br>
 
@@ -161,7 +182,7 @@ AI-powered visual commerce platform for analysing and scoring product images usi
 
 <br>
 
-Gemini · Cloudinary · AWS · Computer Vision
+Gemini Â· Cloudinary Â· AWS Â· Computer Vision
 
 <br><br>
 
@@ -210,7 +231,7 @@ View Repository
 UBDT College of Engineering, Davanagere  
 Visvesvaraya Technological University
 
-**2023 — 2027**  
+**2023 â€” 2027**  
 **CGPA: 8.6 / 10**
 
 ---
@@ -245,7 +266,7 @@ Visvesvaraya Technological University
 ### SNEHA S
 
 Electronics & Communication Engineering  
-AI/ML · Embedded Systems · VLSI
+AI/ML Â· Embedded Systems Â· VLSI
 
 <a href="https://github.com/snehassneha4578-collab">GitHub</a>
 &nbsp;&nbsp;&nbsp;
@@ -281,6 +302,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
