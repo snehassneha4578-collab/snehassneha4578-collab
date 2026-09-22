@@ -1,4 +1,4 @@
-ï»¿<div align="center">
+<div align="center">
 
 <img src="./profile.jpg" width="180" alt="Sneha S">
 
@@ -137,7 +137,7 @@ Machine-learning project analysing the relationship between 6G network performan
 
 <br>
 
-Python Â· Pandas Â· Scikit-learn Â· Streamlit
+Python · Pandas · Scikit-learn · Streamlit
 
 <br><br>
 
@@ -161,7 +161,7 @@ AI-powered visual commerce platform for analysing and scoring product images usi
 
 <br>
 
-Gemini Â· Cloudinary Â· AWS Â· Computer Vision
+Gemini · Cloudinary · AWS · Computer Vision
 
 <br><br>
 
@@ -210,7 +210,7 @@ View Repository
 UBDT College of Engineering, Davanagere  
 Visvesvaraya Technological University
 
-**2023 â€” 2027**  
+**2023 — 2027**  
 **CGPA: 8.6 / 10**
 
 ---
@@ -248,7 +248,7 @@ Visvesvaraya Technological University
 ### SNEHA S
 
 Electronics & Communication Engineering  
-AI/ML Â· Embedded Systems Â· VLSI
+AI/ML · Embedded Systems · VLSI
 
 <a href="https://github.com/snehassneha4578-collab">GitHub</a>
 &nbsp;&nbsp;&nbsp;
@@ -282,8 +282,9 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
+  <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
