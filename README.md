@@ -14,6 +14,8 @@
 <tr>
 <td align="center" width="25%">
 
+<h2>ENGINEERING FOCUS</h2>
+
 ### AI / ML
 
 Computer Vision  
