@@ -10,11 +10,11 @@
 
 <br><br>
 
+<h2 align="center">ENGINEERING FOCUS</h2>
+
 <table>
 <tr>
 <td align="center" width="25%">
-
-<h2>ENGINEERING FOCUS</h2>
 
 ### AI / ML
 
@@ -231,6 +231,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
