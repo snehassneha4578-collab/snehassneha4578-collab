@@ -1,4 +1,4 @@
-﻿name: Pac-Man Contribution Graph
+name: Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -25,9 +25,10 @@ jobs:
 
           cd dist
           git init
-          git checkout -b output
+          git checkout -b pacman-output
           git add .
           git commit -m "chore: update Pac-Man contribution graph"
 
           git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/snehassneha4578-collab/snehassneha4578-collab.git"
-          git push --force origin output
+          git push --force origin pacman-output
+
