@@ -234,9 +234,6 @@ Visvesvaraya Technological University
 <img src="./contrib-heatmap.svg" width="95%" alt="GitHub contribution activity">
 
 <br><br>
-
-<img src="./github-streak-stats.svg" width="70%" alt="GitHub streak statistics">
-
 </div>
 
 ---
@@ -284,6 +281,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
