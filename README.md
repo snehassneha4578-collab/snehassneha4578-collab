@@ -8,15 +8,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&bg_color=020617&color=38BDF8&line=6366F1&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
-
-</div>
-
-<br>
 <div align="center">
 
 <img src="./profile.jpg" width="180" alt="Sneha S">
@@ -300,6 +291,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
