@@ -197,14 +197,8 @@ Visvesvaraya Technological University
 |---|---|
 | AI / ML | Unified Mentor ML Internship |
 | Embedded Systems | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
-
 | Generative AI | Intellipaat AI Bootcamp |
 | GenAI | SkillQuest GenAI Literacy |
-
----
-
-<div align="center">
-
 ## GITHUB ACTIVITY
 
 <img src="./contrib-heatmap.svg" width="95%" alt="GitHub contribution activity">
@@ -237,6 +231,7 @@ Currently active across multiple repositories in AI/ML, programming practice, em
 <p align="center">
   <img src="https://raw.githubusercontent.com/snehassneha4578-collab/snehassneha4578-collab/pacman-output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="900">
 </p>
+
 
 
 
