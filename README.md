@@ -1,8 +1,6 @@
-<div align="center">
-
 <!-- PROFILE PHOTO -->
+<img src="https://avatars.githubusercontent.com/u/266135177?v=4" width="170" height="170" style="border-radius:50%;" />
 
-<img src="https://github.com/snehassneha4578-collab.png" width="170" height="170" style="border-radius:50%;" />
 
 <br>
 
