@@ -1,19 +1,35 @@
+<div align="center">
+
+<!-- ===================================================== -->
+
 <!-- PROFILE PHOTO -->
-<img src="https://avatars.githubusercontent.com/u/266135177?v=4" width="170" height="170" style="border-radius:50%;" />
 
+<!-- Upload your photo to this repository as profile.jpg -->
 
-<br>
+<!-- ===================================================== -->
+
+<img src="./profile.jpg" width="180" height="180" alt="Sneha S" />
+
+<br><br>
+
+<!-- ===================================================== -->
 
 <!-- ANIMATED FUTURISTIC HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:0f172a,70:312e81,100:7c3aed&text=Sneha%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20AI%2FML%20%7C%20Embedded%20%7C%20VLSI&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+<!-- ===================================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,30:111827,60:312e81,100:7c3aed&text=SNEHA%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=ECE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20EMBEDDED%20%7C%20VLSI&descAlignY=61&descSize=18&animation=twinkling" width="100%" />
 
 <br>
 
+<!-- ===================================================== -->
+
 <!-- ANIMATED TYPING -->
 
+<!-- ===================================================== -->
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=ECE+Student+%7C+AI%2FML+%7C+Embedded+Systems+%7C+VLSI;Building+Intelligent+Engineering+Systems;Turning+Ideas+into+Impact;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating;Future+Engineer+in+AI+%2B+Hardware" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Student;AI%2FML+%7C+Embedded+Systems+%7C+VLSI;Building+Intelligent+Engineering+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating;Turning+Ideas+Into+Real+Projects" />
 </a>
 
 <br><br>
@@ -33,9 +49,9 @@
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" width="120">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="130">
 
-### 🤖 AI / ML
+<h3>🤖 AI / ML</h3>
 
 Computer Vision
 Machine Learning
@@ -46,9 +62,9 @@ Data Intelligence
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" width="120">
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" width="130">
 
-### 🔌 EMBEDDED
+<h3>🔌 EMBEDDED</h3>
 
 ESP32
 IoT
@@ -59,9 +75,9 @@ Hardware Integration
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=verilog" width="120">
+<img src="https://skillicons.dev/icons?i=verilog" width="130">
 
-### 🧬 VLSI
+<h3>🧬 VLSI</h3>
 
 Verilog HDL
 RTL Design
@@ -72,9 +88,9 @@ Cadence Virtuoso
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,git" width="120">
+<img src="https://skillicons.dev/icons?i=python,java,js,git" width="130">
 
-### 💻 SOFTWARE
+<h3>💻 SOFTWARE</h3>
 
 C / C++
 Python
@@ -94,19 +110,19 @@ JavaScript
 
 <div align="center">
 
-### 👨‍💻 Programming
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
 <br><br>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
 <br><br>
 
-### 🔌 Embedded & Hardware
+### 🔌 Embedded & IoT
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
@@ -118,7 +134,7 @@ JavaScript
 
 <br><br>
 
-### ☁️ Cloud / Tools
+### ☁️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,aws,docker" />
 
@@ -145,19 +161,17 @@ JavaScript
 
 <br>
 
-Secure AI-powered journaling platform built with **Gemini + Firebase**, featuring authenticated user data isolation and cloud deployment.
-
-**Tech:** Gemini · Firebase · JavaScript · Node.js · Cloud Run
+Secure AI-powered journaling platform built with **Gemini and Firebase**, featuring authenticated user data isolation and cloud deployment.
 
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=javascript,firebase,nodejs" />
+
+<br><br>
 
 <a href="https://github.com/snehassneha4578-collab/secure-gemini-journal">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
@@ -173,19 +187,21 @@ Secure AI-powered journaling platform built with **Gemini + Firebase**, featurin
 
 <br>
 
-Machine-learning system analysing the relationship between **6G network performance and manufacturing efficiency**.
-
-**Tech:** Python · Pandas · Scikit-learn · Streamlit
+Machine-learning project analysing the relationship between **6G network performance and manufacturing efficiency** in smart factories.
 
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+Python · Pandas · Scikit-learn · Streamlit
+
+<br><br>
 
 <a href="https://github.com/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
@@ -205,19 +221,21 @@ Machine-learning system analysing the relationship between **6G network performa
 
 <br>
 
-AI-powered **Product Intelligence & Visual Commerce Studio** combining computer vision, Gemini and cloud-based image processing.
-
-**Tech:** Gemini · Cloudinary · AWS · Computer Vision
+AI-powered **Product Intelligence & Visual Commerce Studio** combining Gemini, Cloudinary, AWS and computer vision.
 
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,aws" />
+
+<br><br>
+
+Gemini · Cloudinary · AWS · Computer Vision
+
+<br><br>
 
 <a href="https://github.com/snehassneha4578-collab/VISUALIQ-AI-Powered-Product-Intelligence">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F97316?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
@@ -235,17 +253,19 @@ AI-powered **Product Intelligence & Visual Commerce Studio** combining computer 
 
 Computer-vision based gesture recognition system designed for **presentation automation and hands-free interaction**.
 
-**Tech:** Python · Computer Vision · Gesture Recognition
-
 <br>
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+Computer Vision · Gesture Recognition · Automation
+
+<br><br>
 
 <a href="https://github.com/snehassneha4578-collab/AI-Hand-Gesture-Presentation-Automation">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EC4899?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
@@ -260,27 +280,61 @@ Computer-vision based gesture recognition system designed for **presentation aut
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:020617,50:312e81,100:06b6d4&text=CURIOUSITY%20→%20LEARNING%20→%20BUILDING%20→%20IMPACT&fontColor=ffffff&fontSize=22&animation=twinkling" width="95%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:020617,40:312e81,70:7c3aed,100:06b6d4&text=CURIOUSITY%20%E2%86%92%20LEARNING%20%E2%86%92%20BUILDING%20%E2%86%92%20IMPACT&fontColor=ffffff&fontSize=22&animation=twinkling" width="95%" />
 
 <br><br>
 
-💡 **Curiosity**
+<table>
+<tr>
 
-⬇️
+<td align="center">
 
-📚 **Learning**
+💡
 
-⬇️
+### CURIOUSITY
 
-⚙️ **Building**
+Explore
 
-⬇️
+</td>
 
-🚀 **Innovation**
+<td align="center">→</td>
 
-⬇️
+<td align="center">
 
-🌍 **Impact**
+📚
+
+### LEARNING
+
+Understand
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+⚙️
+
+### BUILDING
+
+Create
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🚀
+
+### IMPACT
+
+Innovate
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -292,21 +346,25 @@ Computer-vision based gesture recognition system designed for **presentation aut
 
 <table>
 <tr>
-
 <td align="center">
 
-### 🎓 B.E. Electronics & Communication Engineering
+<h2>🎓 B.E. Electronics & Communication Engineering</h2>
 
-**UBDT College of Engineering, Davanagere**
+<b>UBDT College of Engineering, Davanagere</b>
+
+<br>
 
 Visvesvaraya Technological University
 
-**2023 — 2027**
+<br><br>
 
-### ⭐ CGPA: 8.6 / 10
+<b>2023 — 2027</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge" />
 
 </td>
-
 </tr>
 </table>
 
@@ -318,7 +376,7 @@ Visvesvaraya Technological University
 
 <div align="center">
 
-| 🔬 Area             | 🚀 Experience                                             |
+| 🔬 AREA             | 🚀 EXPERIENCE                                             |
 | ------------------- | --------------------------------------------------------- |
 | 🤖 AI / ML          | Unified Mentor ML Internship                              |
 | 🔌 Embedded Systems | NPTEL Embedded Sensing, Actuation and Interfacing Systems |
@@ -329,19 +387,15 @@ Visvesvaraya Technological University
 
 ---
 
-# 📊 GITHUB ACTIVITY
+# 📊 GITHUB INTELLIGENCE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehassneha4578-collab&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=snehassneha4578-collab&theme=tokyonight&hide_border=true" width="80%" />
 
@@ -349,11 +403,11 @@ Visvesvaraya Technological University
 
 ---
 
-# 🟢 CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&theme=tokyo-night&hide_border=true&area=true&custom_title=Sneha's%20Engineering%20Activity" width="95%" />
 
 </div>
 
@@ -363,7 +417,9 @@ Visvesvaraya Technological University
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Joined-July%2014%2C%202026-172554?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Contributions-1,022-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Repositories-26-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 <br><br>
 
@@ -371,7 +427,7 @@ Visvesvaraya Technological University
 
 <br><br>
 
-**Currently active across multiple repositories in AI/ML, programming practice, embedded systems, computer vision and engineering projects.**
+<i>Currently active across multiple repositories in AI/ML, programming practice, embedded systems, computer vision and engineering projects.</i>
 
 </div>
 
@@ -388,6 +444,8 @@ Visvesvaraya Technological University
 <a href="https://github.com/snehassneha4578-collab/Cpp-Practice">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassneha4578-collab&repo=Cpp-Practice&theme=tokyonight&hide_border=true" />
 </a>
+
+<br>
 
 <a href="https://github.com/snehassneha4578-collab/Python-Practice">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=snehassneha4578-collab&repo=Python-Practice&theme=tokyonight&hide_border=true" />
@@ -406,11 +464,11 @@ Visvesvaraya Technological University
 <div align="center">
 
 <a href="https://github.com/snehassneha4578-collab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sneha-s-31769643b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -419,12 +477,16 @@ Visvesvaraya Technological University
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7c3aed,50:312e81,100:020617&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7c3aed,50:312e81,100:020617&section=footer&animation=twinkling" width="100%" />
 
-### 💜 DREAM • CODE • BUILD • THE FUTURE
+<br>
 
-**Electronics Engineer in Progress | AI/ML | Embedded Systems | VLSI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=06B6D4&center=true&vCenter=true&width=700&lines=DREAM+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;Keep+Learning.+Keep+Building.+Keep+Growing.;Thanks+for+visiting+my+profile!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=06B6D4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing." />
+<br><br>
+
+### 💜 Electronics Engineer in Progress
+
+**AI/ML • Embedded Systems • VLSI • Software**
 
 </div>
