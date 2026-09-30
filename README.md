@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- ===================================================== -->
-
-<!-- PASSPORT-STYLE PROFILE PHOTO -->
-
-<!-- Put profile.jpg in the same repository as README.md -->
-
-<!-- ===================================================== -->
-
 <img src="./profile.jpg" width="180" height="220" alt="Sneha S" />
 
 <br><br>
@@ -18,7 +10,11 @@
 
 ---
 
-## ENGINEERING FOCUS
+<div align="center">
+
+## ⚡ ENGINEERING FOCUS
+
+</div>
 
 <div align="center">
 
@@ -84,7 +80,11 @@
 
 ---
 
-## TECHNICAL STACK
+<div align="center">
+
+## 🛠️ TECHNICAL STACK
+
+</div>
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
-<br>
+<br><br>
 
 **C · C++ · Python**
 **Java · JavaScript**
@@ -110,7 +110,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-<br>
+<br><br>
 
 **TensorFlow · PyTorch**
 **OpenCV · Scikit-learn**
@@ -123,7 +123,7 @@
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-<br>
+<br><br>
 
 **Arduino · Raspberry Pi**
 **ESP32 · IoT**
@@ -140,7 +140,7 @@
 
 <img src="https://skillicons.dev/icons?i=verilog" />
 
-<br>
+<br><br>
 
 **Verilog HDL**
 **RTL Design**
@@ -154,7 +154,7 @@
 
 <img src="https://skillicons.dev/icons?i=firebase,aws,docker" />
 
-<br>
+<br><br>
 
 **Firebase · AWS**
 **Docker · Cloud Deployment**
@@ -167,7 +167,7 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<br>
+<br><br>
 
 **Git · GitHub**
 **VS Code**
@@ -181,7 +181,11 @@
 
 ---
 
-## SELECTED PROJECTS
+<div align="center">
+
+## 🚀 SELECTED PROJECTS
+
+</div>
 
 <div align="center">
 
@@ -279,7 +283,11 @@ Python · OpenCV · Computer Vision
 
 ---
 
-## ENGINEERING JOURNEY
+<div align="center">
+
+## 🧭 ENGINEERING JOURNEY
+
+</div>
 
 <div align="center">
 
@@ -309,15 +317,15 @@ Python · OpenCV · Computer Vision
 
 ---
 
-## EDUCATION
-
 <div align="center">
 
-### 🎓 B.E. Electronics & Communication Engineering
+## 🎓 EDUCATION
+
+### B.E. Electronics & Communication Engineering
 
 **UBDT College of Engineering, Davanagere**
 
-Visvesvaraya Technological University
+**Visvesvaraya Technological University**
 
 **2023 — 2027**
 
@@ -329,7 +337,11 @@ Visvesvaraya Technological University
 
 ---
 
-## CERTIFICATIONS & EXPERIENCE
+<div align="center">
+
+## 📜 CERTIFICATIONS & EXPERIENCE
+
+</div>
 
 <div align="center">
 
@@ -341,6 +353,7 @@ Visvesvaraya Technological University
 ### 🤖 AI / ML
 
 **Unified Mentor**
+
 ML Internship
 
 </td>
@@ -350,15 +363,17 @@ ML Internship
 ### 🔌 Embedded
 
 **NPTEL**
+
 Embedded Systems
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠 GenAI
+### 🧠 Generative AI
 
 **Intellipaat**
+
 AI Bootcamp
 
 </td>
@@ -368,6 +383,7 @@ AI Bootcamp
 ### ✨ GenAI
 
 **SkillQuest**
+
 GenAI Literacy
 
 </td>
@@ -379,9 +395,11 @@ GenAI Literacy
 
 ---
 
-## GITHUB ACTIVITY
-
 <div align="center">
+
+## 📊 GITHUB ACTIVITY
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehassneha4578-collab&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
@@ -393,9 +411,11 @@ GenAI Literacy
 
 ---
 
-## GITHUB PROFILE
-
 <div align="center">
+
+## 📈 GITHUB PROFILE
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=snehassneha4578-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
 
@@ -413,9 +433,9 @@ GenAI Literacy
 
 ---
 
-## POPULAR REPOSITORIES
-
 <div align="center">
+
+## 📂 POPULAR REPOSITORIES
 
 <table>
 <tr>
@@ -487,7 +507,7 @@ GenAI Literacy
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7c3aed,50:312e81,100:020617&section=footer&animation=twinkling" width="100%" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=06B6D4&center=true&vCenter=true&width=700&lines=DREAM+%E2%80%A2+CODE+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE;Keep+Learning.+Keep+Building.+Keep+Growing" />
 
