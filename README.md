@@ -2,25 +2,15 @@
 
 <!-- ===================================================== -->
 
-<!-- LARGE PROFILE PHOTO -->
+<!-- PASSPORT-STYLE PROFILE PHOTO -->
 
 <!-- Put profile.jpg in the same repository as README.md -->
 
 <!-- ===================================================== -->
 
-<img src="./profile.jpg" width="300" height="300" alt="Sneha S" />
+<img src="./profile.jpg" width="180" height="220" alt="Sneha S" />
 
 <br><br>
-
-<!-- ===================================================== -->
-
-<!-- ANIMATED FUTURISTIC ENGINEERING HEADER -->
-
-<!-- ===================================================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0f172a,70:312e81,100:7c3aed&text=SNEHA%20S&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20AI%2FML%20%7C%20Embedded%20%7C%20VLSI&descAlignY=61&descSize=18&animation=twinkling" width="100%" />
-
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Electronics+%26+Communication+Engineering+Student;AI%2FML+%7C+Embedded+Systems+%7C+VLSI;Building+Intelligent+Engineering+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating;Turning+Ideas+Into+Real+Projects" />
 
@@ -37,53 +27,53 @@
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="150">
-
 ### 🤖 AI / ML
 
-Computer Vision
-TensorFlow
-Scikit-learn
-Pandas
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" width="125">
+
+**Computer Vision**
+**TensorFlow**
+**Scikit-learn**
+**Pandas**
 
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" width="150">
 
 ### 🔌 EMBEDDED
 
-ESP32
-IoT
-Embedded Systems
-Hardware Integration
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" width="125">
+
+**ESP32**
+**IoT**
+**Embedded Systems**
+**Hardware Integration**
 
 </td>
 
 <td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=verilog" width="150">
 
 ### 🧬 VLSI
 
-Verilog HDL
-RTL Design
-Digital Design
-Cadence Virtuoso
+<img src="https://skillicons.dev/icons?i=verilog" width="125">
+
+**Verilog HDL**
+**RTL Design**
+**Digital Design**
+**Cadence Virtuoso**
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,git" width="150">
-
 ### 💻 SOFTWARE
 
-C / C++
-Python
-Java
-JavaScript
+<img src="https://skillicons.dev/icons?i=python,java,js,git" width="125">
+
+**C / C++**
+**Python**
+**Java**
+**JavaScript**
 
 </td>
 
@@ -98,33 +88,94 @@ JavaScript
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
 
-<br><br>
+<br>
+
+**C · C++ · Python**
+**Java · JavaScript**
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 
-<br><br>
+<br>
+
+**TensorFlow · PyTorch**
+**OpenCV · Scikit-learn**
+
+</td>
+
+<td align="center" width="33%">
 
 ### 🔌 Embedded & IoT
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 
-<br><br>
+<br>
+
+**Arduino · Raspberry Pi**
+**ESP32 · IoT**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
 
 ### 🧬 VLSI & Digital Design
 
 <img src="https://skillicons.dev/icons?i=verilog" />
 
-<br><br>
+<br>
 
-### ☁️ Development Tools
+**Verilog HDL**
+**RTL Design**
+**Digital Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,aws,docker" />
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=firebase,aws,docker" />
+
+<br>
+
+**Firebase · AWS**
+**Docker · Cloud Deployment**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br>
+
+**Git · GitHub**
+**VS Code**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -132,89 +183,97 @@ JavaScript
 
 ## SELECTED PROJECTS
 
-### 🔐 Secure Gemini Journal
-
-Secure AI-powered journaling platform built with Gemini and Firebase, featuring authenticated user data isolation and cloud deployment.
-
 <div align="center">
 
-<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/secure-gemini-journal" width="90%" />
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=javascript,firebase,nodejs" />
+### 🔐 Secure Gemini Journal
+
+<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/secure-gemini-journal" width="95%">
+
+<br>
+
+**Secure AI-powered journaling platform**
+
+Gemini · Firebase · Node.js · JavaScript
 
 <br><br>
 
 <a href="https://github.com/snehassneha4578-collab/secure-gemini-journal">
-<img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+</td>
 
----
+<td align="center" width="50%">
 
 ### 🏭 6G Smart Factory ML
 
-Machine-learning project analysing the relationship between 6G network performance and manufacturing efficiency in smart factories.
+<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories" width="95%">
 
-**Python · Pandas · Scikit-learn · Streamlit**
+<br>
 
-<div align="center">
+**6G network & manufacturing efficiency analysis**
 
-<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories" width="90%" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" />
+Python · Pandas · Scikit-learn · Streamlit
 
 <br><br>
 
 <a href="https://github.com/snehassneha4578-collab/Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories">
-<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+</td>
 
----
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
 
 ### 👁️ VISUALIQ
 
-AI-powered product intelligence and visual commerce platform combining computer vision, generative AI and cloud-based product analysis.
+<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/VISUALIQ-AI-Powered-Product-Intelligence" width="95%">
 
-**Gemini · Cloudinary · AWS · Computer Vision**
+<br>
 
-<div align="center">
+**AI-powered product intelligence & visual commerce**
 
-<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/VISUALIQ-AI-Powered-Product-Intelligence" width="90%" />
+Gemini · Cloudinary · AWS · Computer Vision
 
 <br><br>
 
 <a href="https://github.com/snehassneha4578-collab/VISUALIQ-AI-Powered-Product-Intelligence">
-<img src="https://img.shields.io/badge/View%20Repository-F97316?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-F97316?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</div>
+</td>
 
----
+<td align="center" width="50%">
 
 ### ✋ AI Hand Gesture Automation
 
-Computer-vision based gesture recognition system designed for presentation automation and hands-free interaction.
+<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/AI-Hand-Gesture-Presentation-Automation" width="95%">
 
-<div align="center">
+<br>
 
-<img src="https://opengraph.githubassets.com/1/snehassneha4578-collab/AI-Hand-Gesture-Presentation-Automation" width="90%" />
+**Computer-vision based presentation automation**
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python" />
+Python · OpenCV · Computer Vision
 
 <br><br>
 
 <a href="https://github.com/snehassneha4578-collab/AI-Hand-Gesture-Presentation-Automation">
-<img src="https://img.shields.io/badge/View%20Repository-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-EC4899?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -272,12 +331,51 @@ Visvesvaraya Technological University
 
 ## CERTIFICATIONS & EXPERIENCE
 
-| **Area**            | **Experience**               |
-| ------------------- | ---------------------------- |
-| 🤖 AI / ML          | Unified Mentor ML Internship |
-| 🔌 Embedded Systems | NPTEL Embedded Systems       |
-| 🧠 Generative AI    | Intellipaat AI Bootcamp      |
-| ✨ GenAI             | SkillQuest GenAI Literacy    |
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖 AI / ML
+
+**Unified Mentor**
+ML Internship
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔌 Embedded
+
+**NPTEL**
+Embedded Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 GenAI
+
+**Intellipaat**
+AI Bootcamp
+
+</td>
+
+<td align="center" width="25%">
+
+### ✨ GenAI
+
+**SkillQuest**
+GenAI Literacy
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -317,12 +415,71 @@ Visvesvaraya Technological University
 
 ## POPULAR REPOSITORIES
 
-1. **Java-Practice-** — Java programming practice
-2. **Cpp-Practice** — C++ programming practice
-3. **Python-Practice** — Python programming practice
-4. **snehassneha4578-collab.github.io** — Personal portfolio
-5. **Project-Impact-of-6G-Network-Performance-on-Manufacturing-Efficiency-in-Smart-Factories** — 6G Smart Factory Network Analysis & Machine Learning
-6. **secure-gemini-journal** — Secure Gemini AI Journal
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### ☕ Java Practice
+
+**Java programming practice**
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚡ C++ Practice
+
+**C++ programming practice**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🐍 Python Practice
+
+**Python programming practice**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Portfolio
+
+**Personal portfolio website**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🏭 6G Smart Factory
+
+**6G Network Analysis & ML**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔐 Secure Gemini Journal
+
+**Secure Gemini AI Journal**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
